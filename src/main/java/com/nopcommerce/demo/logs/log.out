@@ -1,0 +1,833 @@
+2020-12-06 20:12:735 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 20:12:381 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 20:12:412 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 20:12:85 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 20:12:435 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (a8d92e5710017e790960d28d1328a8d3)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 20:12:463 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (a8d92e5710017e790960d28d1328a8d3)] -> xpath: //div[@class='page-title']//h1]
+2020-12-06 20:12:737 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 20:12:101 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (3558cf4e2bdf5ac063d5a8a6662c9f8b)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 20:12:133 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (3558cf4e2bdf5ac063d5a8a6662c9f8b)] -> xpath: //div[@class='page-title']//h1]
+2020-12-06 21:12:46 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:991 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (f3ab7c8f2582f9b9387fda82be1ec52b)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:530 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (f3ab7c8f2582f9b9387fda82be1ec52b)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:961 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:963 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (50ac627b2c9af32193d52d5a1d714a82)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:494 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (50ac627b2c9af32193d52d5a1d714a82)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:833 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:841 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (659e8a877f727f8b69eaf37fce74a7e0)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:10 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (659e8a877f727f8b69eaf37fce74a7e0)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:481 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:408 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (7bc988e7e593b4407edbaf5073c885a6)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:886 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (7bc988e7e593b4407edbaf5073c885a6)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:307 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:205 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (309dd9202d8c9f721f17dcb648c2299c)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:672 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (309dd9202d8c9f721f17dcb648c2299c)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:788 INFO  LoginPage :29 - Entering email address : alphatest157@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (309dd9202d8c9f721f17dcb648c2299c)] -> id: Email]
+2020-12-06 21:12:888 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:83 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (1270297dfd59242c3c48d685f36f0b73)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:567 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (1270297dfd59242c3c48d685f36f0b73)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:678 INFO  LoginPage :29 - Entering email address : alphatest978@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (1270297dfd59242c3c48d685f36f0b73)] -> id: Email]
+2020-12-06 21:12:688 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:31 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (325acc652072c1b4b21e2816b4e73d83)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:578 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (325acc652072c1b4b21e2816b4e73d83)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:685 INFO  LoginPage :29 - Entering email address : alphatest60@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (325acc652072c1b4b21e2816b4e73d83)] -> id: Email]
+2020-12-06 21:12:767 INFO  LoginPage :36 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (325acc652072c1b4b21e2816b4e73d83)] -> css selector: #Password]
+2020-12-06 21:12:741 INFO  LoginPage :42 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (325acc652072c1b4b21e2816b4e73d83)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-06 21:12:760 INFO  LoginPage :47 - Getting text from : [[ChromeDriver: chrome on WINDOWS (325acc652072c1b4b21e2816b4e73d83)] -> xpath: //div[@class='page-title']//h1]
+2020-12-06 21:12:269 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:351 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (bb7abe7ddc2aff048b6c8370e2bb8663)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:897 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (bb7abe7ddc2aff048b6c8370e2bb8663)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:26 INFO  LoginPage :29 - Entering email address : alphatest455@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (bb7abe7ddc2aff048b6c8370e2bb8663)] -> id: Email]
+2020-12-06 21:12:112 INFO  LoginPage :36 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (bb7abe7ddc2aff048b6c8370e2bb8663)] -> css selector: #Password]
+2020-12-06 21:12:146 INFO  LoginPage :42 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (bb7abe7ddc2aff048b6c8370e2bb8663)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-06 21:12:168 INFO  LoginPage :47 - Getting text from : [[ChromeDriver: chrome on WINDOWS (bb7abe7ddc2aff048b6c8370e2bb8663)] -> xpath: //div[@class='page-title']//h1]
+2020-12-06 21:12:974 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:816 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (0157d5f1e9e20fc51676f802156ac94b)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:363 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (0157d5f1e9e20fc51676f802156ac94b)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:467 INFO  LoginPage :29 - Entering email address : alphatest133@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (0157d5f1e9e20fc51676f802156ac94b)] -> id: Email]
+2020-12-06 21:12:550 INFO  LoginPage :36 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (0157d5f1e9e20fc51676f802156ac94b)] -> css selector: #Password]
+2020-12-06 21:12:951 INFO  LoginPage :42 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (0157d5f1e9e20fc51676f802156ac94b)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-06 21:12:968 INFO  LoginPage :47 - Getting text from : [[ChromeDriver: chrome on WINDOWS (0157d5f1e9e20fc51676f802156ac94b)] -> xpath: //div[@class='page-title']//h1]
+2020-12-06 21:12:65 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:74 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (110cd06e4a39c3f771db1b7b7c0a9d5f)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:689 INFO  LoginPage :32 - Entering email address : betatest123@me.com.com to email field : [[ChromeDriver: chrome on WINDOWS (110cd06e4a39c3f771db1b7b7c0a9d5f)] -> id: Email]
+2020-12-06 21:12:779 INFO  LoginPage :39 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (110cd06e4a39c3f771db1b7b7c0a9d5f)] -> css selector: #Password]
+2020-12-06 21:12:236 INFO  LoginPage :45 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (110cd06e4a39c3f771db1b7b7c0a9d5f)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-06 21:12:257 INFO  LoginPage :56 - Getting error text from [[ChromeDriver: chrome on WINDOWS (110cd06e4a39c3f771db1b7b7c0a9d5f)] -> xpath: //div[@class = 'message-error validation-summary-errors']]
+2020-12-06 22:12:190 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 22:12:819 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (139641e8109ab09df9b68470c3fee9bf)] -> xpath: //a[@class='ico-register']]
+2020-12-06 22:12:837 INFO  HomePage :142 - Verify Registration Message [[ChromeDriver: chrome on WINDOWS (139641e8109ab09df9b68470c3fee9bf)] -> xpath: //h1[contains(text(),'Register')]]
+2020-12-06 22:12:496 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 22:12:432 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 22:12:40 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e1e55293d4aab6ce564c8f76f8eaecc6)] -> xpath: //a[@class='ico-register']]
+2020-12-06 22:12:89 INFO  HomePage :63 - click on Gender [[ChromeDriver: chrome on WINDOWS (e1e55293d4aab6ce564c8f76f8eaecc6)] -> xpath: //label[contains(text(),'Male')]]
+2020-12-06 22:12:187 INFO  HomePage :71 - clicks and sends First Name [[ChromeDriver: chrome on WINDOWS (e1e55293d4aab6ce564c8f76f8eaecc6)] -> xpath: //input[@id='FirstName']]
+2020-12-06 22:12:252 INFO  HomePage :78 - clicks and sends Last Name [[ChromeDriver: chrome on WINDOWS (e1e55293d4aab6ce564c8f76f8eaecc6)] -> xpath: //input[@id='LastName']]
+2020-12-06 22:12:294 INFO  HomePage :85 - selects date from the DropDown [[ChromeDriver: chrome on WINDOWS (e1e55293d4aab6ce564c8f76f8eaecc6)] -> xpath: //select[@name='DateOfBirthDay']//option[contains(text(),'11')]]
+2020-12-06 22:12:342 INFO  HomePage :91 - selects month from the Dropdown [[ChromeDriver: chrome on WINDOWS (e1e55293d4aab6ce564c8f76f8eaecc6)] -> xpath: //select[@name='DateOfBirthMonth']//option[contains(text(),'November')]]
+2020-12-06 22:12:387 INFO  HomePage :97 - Selects Year from Dropdown [[ChromeDriver: chrome on WINDOWS (e1e55293d4aab6ce564c8f76f8eaecc6)] -> xpath: //select[@name='DateOfBirthYear']//option[contains(text(),'2011')]]
+2020-12-06 22:12:490 INFO  HomePage :104 - send Email Id to [[ChromeDriver: chrome on WINDOWS (e1e55293d4aab6ce564c8f76f8eaecc6)] -> xpath: //input[@id='Email']]
+2020-12-06 22:12:587 INFO  HomePage :111 - send Company Name [[ChromeDriver: chrome on WINDOWS (e1e55293d4aab6ce564c8f76f8eaecc6)] -> xpath: //input[@id='Company']]
+2020-12-06 22:12:641 INFO  HomePage :117 - Selects Newsletter Checkbox [[ChromeDriver: chrome on WINDOWS (e1e55293d4aab6ce564c8f76f8eaecc6)] -> xpath: //input[@id='Newsletter']]
+2020-12-06 22:12:733 INFO  HomePage :124 - send password to field[[ChromeDriver: chrome on WINDOWS (e1e55293d4aab6ce564c8f76f8eaecc6)] -> xpath: //input[@id='Password']]
+2020-12-06 22:12:826 INFO  HomePage :131 - send password to confirm password field [[ChromeDriver: chrome on WINDOWS (e1e55293d4aab6ce564c8f76f8eaecc6)] -> xpath: //input[@id='ConfirmPassword']]
+2020-12-06 22:12:154 INFO  HomePage :137 - Clicks on Registeration Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='register-button']'
+2020-12-06 22:12:154 INFO  HomePage :148 - Verifies Successful Registration
+2020-12-06 22:12:493 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 22:12:344 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (f1f93b99249f0128f2ac5207d851298f)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 22:12:488 INFO  HomePage :43 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (f1f93b99249f0128f2ac5207d851298f)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-06 23:12:55 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 23:12:998 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (62ef74abd681a5da4e16de62a49f73a4)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 23:12:145 INFO  HomePage :43 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (62ef74abd681a5da4e16de62a49f73a4)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-06 23:12:774 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 23:12:221 INFO  HomePage :43 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (af9ed93be782dbc3f2fcc5338d84250d)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-06 23:12:18 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 23:12:598 INFO  HomePage :43 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (ee3556bf5e3cc9cd3accf525a7d0cdfb)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-06 23:12:650 INFO  HomePage :58 - Clicks on Desktop Link [[ChromeDriver: chrome on WINDOWS (ee3556bf5e3cc9cd3accf525a7d0cdfb)] -> xpath: //h2[@class='title']//a[contains(text(),'Desktops')]]
+2020-12-06 23:12:168 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 23:12:184 INFO  HomePage :43 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (94bede72be15b04b2ad41dd81fda75a6)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-06 23:12:237 INFO  HomePage :58 - Clicks on Desktop Link [[ChromeDriver: chrome on WINDOWS (94bede72be15b04b2ad41dd81fda75a6)] -> xpath: //h2[@class='title']//a[contains(text(),'Desktops')]]
+2020-12-06 23:12:241 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 23:12:858 INFO  HomePage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (be7014bb9e8c129e2c64800678e5bc35)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-06 23:12:910 INFO  HomePage :59 - Clicks on Desktop Link [[ChromeDriver: chrome on WINDOWS (be7014bb9e8c129e2c64800678e5bc35)] -> xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]]
+2020-12-06 23:12:226 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 23:12:685 INFO  HomePage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (d39b629beec07e7d5cb045e5a6b264f6)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-06 23:12:895 INFO  HomePage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-06 23:12:53 INFO  HomePage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (d39b629beec07e7d5cb045e5a6b264f6)] -> id: products-orderby]
+2020-12-06 23:12:292 INFO  HomePage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (d39b629beec07e7d5cb045e5a6b264f6)] -> id: products-orderby]
+2020-12-06 23:12:252 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 23:12:262 INFO  HomePage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (5b6e2502dd0ec68e9b4d9010d21d6e1c)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-06 23:12:407 INFO  HomePage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-06 23:12:619 INFO  HomePage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (5b6e2502dd0ec68e9b4d9010d21d6e1c)] -> id: products-orderby]
+2020-12-06 23:12:968 INFO  HomePage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (5b6e2502dd0ec68e9b4d9010d21d6e1c)] -> id: products-orderby]
+2020-12-06 23:12:26 INFO  HomePage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (5b6e2502dd0ec68e9b4d9010d21d6e1c)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-06 23:12:465 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 23:12:968 INFO  HomePage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (7fc197f7727dd2beb80d61558035a7e5)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-06 23:12:543 INFO  HomePage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-06 23:12:113 INFO  HomePage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (7fc197f7727dd2beb80d61558035a7e5)] -> id: products-orderby]
+2020-12-06 23:12:412 INFO  HomePage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (7fc197f7727dd2beb80d61558035a7e5)] -> id: products-orderby]
+2020-12-06 23:12:468 INFO  HomePage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (7fc197f7727dd2beb80d61558035a7e5)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-06 23:12:46 INFO  HomePage :110 - Verify Actual Message [[ChromeDriver: chrome on WINDOWS (7fc197f7727dd2beb80d61558035a7e5)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2020-12-06 23:12:14 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 23:12:806 INFO  HomePage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (956f182a662671fe98e69d7a1a47575f)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-06 23:12:964 INFO  HomePage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-06 23:12:168 INFO  HomePage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (956f182a662671fe98e69d7a1a47575f)] -> id: products-orderby]
+2020-12-06 23:12:807 INFO  HomePage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (956f182a662671fe98e69d7a1a47575f)] -> id: products-orderby]
+2020-12-06 23:12:860 INFO  HomePage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (956f182a662671fe98e69d7a1a47575f)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-06 23:12:888 INFO  HomePage :110 - Verify Actual Message Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Build your own computer')]'
+2020-12-06 23:12:137 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 23:12:634 INFO  HomePage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (6d2bb74d01123c14dd0078aef941226a)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-06 23:12:178 INFO  HomePage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-06 23:12:390 INFO  HomePage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (6d2bb74d01123c14dd0078aef941226a)] -> id: products-orderby]
+2020-12-06 23:12:642 INFO  HomePage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (6d2bb74d01123c14dd0078aef941226a)] -> id: products-orderby]
+2020-12-06 23:12:703 INFO  HomePage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (6d2bb74d01123c14dd0078aef941226a)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-06 23:12:403 INFO  HomePage :110 - Verify Actual Message [[ChromeDriver: chrome on WINDOWS (6d2bb74d01123c14dd0078aef941226a)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2020-12-06 23:12:56 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 23:12:19 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 23:12:471 INFO  HomePage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (4ff30ace0e88de22f12d7583b7356867)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-06 23:12:751 INFO  HomePage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-06 23:12:45 INFO  HomePage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (4ff30ace0e88de22f12d7583b7356867)] -> id: products-orderby]
+2020-12-06 23:12:109 INFO  HomePage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (4ff30ace0e88de22f12d7583b7356867)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-06 23:12:688 INFO  HomePage :49 -  Selects Processor [[ChromeDriver: chrome on WINDOWS (4ff30ace0e88de22f12d7583b7356867)] -> xpath: //select[@id='product_attribute_1']]
+2020-12-06 23:12:836 INFO  HomePage :60 -  select RAM from dropdow [[ChromeDriver: chrome on WINDOWS (4ff30ace0e88de22f12d7583b7356867)] -> xpath: //select[@id='product_attribute_2']]
+2020-12-06 23:12:901 INFO  HomePage :67 - Click HDD radio button [[ChromeDriver: chrome on WINDOWS (4ff30ace0e88de22f12d7583b7356867)] -> xpath: //input[@id='product_attribute_3_7']]
+2020-12-06 23:12:953 INFO  HomePage :70 - Clicks OS Radio Button [[ChromeDriver: chrome on WINDOWS (4ff30ace0e88de22f12d7583b7356867)] -> xpath: //input[@id='product_attribute_4_9']]
+2020-12-06 23:12:16 INFO  HomePage :78 - Check Commander Check Box [[ChromeDriver: chrome on WINDOWS (4ff30ace0e88de22f12d7583b7356867)] -> xpath: //input[@id='product_attribute_5_12']]
+2020-12-06 23:12:37 INFO  HomePage :84 - verify Message [[ChromeDriver: chrome on WINDOWS (4ff30ace0e88de22f12d7583b7356867)] -> xpath: //span[@class='price-value-1']]
+2020-12-06 23:12:441 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 23:12:95 INFO  HomePage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (6a64d0fb763fa7519f85896bb3860821)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-06 23:12:289 INFO  HomePage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-06 23:12:514 INFO  HomePage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (6a64d0fb763fa7519f85896bb3860821)] -> id: products-orderby]
+2020-12-06 23:12:583 INFO  HomePage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (6a64d0fb763fa7519f85896bb3860821)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-06 23:12:221 INFO  HomePage :49 -  Selects Processor [[ChromeDriver: chrome on WINDOWS (6a64d0fb763fa7519f85896bb3860821)] -> xpath: //select[@id='product_attribute_1']]
+2020-12-06 23:12:369 INFO  HomePage :60 -  select RAM from dropdow [[ChromeDriver: chrome on WINDOWS (6a64d0fb763fa7519f85896bb3860821)] -> xpath: //select[@id='product_attribute_2']]
+2020-12-06 23:12:368 INFO  HomePage :67 - Click HDD radio button [[ChromeDriver: chrome on WINDOWS (6a64d0fb763fa7519f85896bb3860821)] -> xpath: //input[@id='product_attribute_3_7']]
+2020-12-06 23:12:456 INFO  HomePage :70 - Clicks OS Radio Button [[ChromeDriver: chrome on WINDOWS (6a64d0fb763fa7519f85896bb3860821)] -> xpath: //input[@id='product_attribute_4_9']]
+2020-12-06 23:12:470 INFO  HomePage :78 - Check Commander Check Box [[ChromeDriver: chrome on WINDOWS (6a64d0fb763fa7519f85896bb3860821)] -> xpath: //input[@id='product_attribute_5_12']]
+2020-12-06 23:12:551 INFO  HomePage :84 - verify Message [[ChromeDriver: chrome on WINDOWS (6a64d0fb763fa7519f85896bb3860821)] -> xpath: //span[@class='price-value-1']]
+2020-12-06 23:12:562 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 23:12:252 INFO  HomePage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (761fb4f66c617e8c86bac5d37fba09c7)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-06 23:12:448 INFO  HomePage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-06 23:12:724 INFO  HomePage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (761fb4f66c617e8c86bac5d37fba09c7)] -> id: products-orderby]
+2020-12-06 23:12:789 INFO  HomePage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (761fb4f66c617e8c86bac5d37fba09c7)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-06 23:12:493 INFO  HomePage :49 -  Selects Processor [[ChromeDriver: chrome on WINDOWS (761fb4f66c617e8c86bac5d37fba09c7)] -> xpath: //select[@id='product_attribute_1']]
+2020-12-06 23:12:651 INFO  HomePage :60 -  select RAM from dropdow [[ChromeDriver: chrome on WINDOWS (761fb4f66c617e8c86bac5d37fba09c7)] -> xpath: //select[@id='product_attribute_2']]
+2020-12-06 23:12:720 INFO  HomePage :67 - Click HDD radio button [[ChromeDriver: chrome on WINDOWS (761fb4f66c617e8c86bac5d37fba09c7)] -> xpath: //input[@id='product_attribute_3_7']]
+2020-12-06 23:12:781 INFO  HomePage :70 - Clicks OS Radio Button [[ChromeDriver: chrome on WINDOWS (761fb4f66c617e8c86bac5d37fba09c7)] -> xpath: //input[@id='product_attribute_4_9']]
+2020-12-06 23:12:834 INFO  HomePage :78 - Check Commander Check Box [[ChromeDriver: chrome on WINDOWS (761fb4f66c617e8c86bac5d37fba09c7)] -> xpath: //input[@id='product_attribute_5_12']]
+2020-12-06 23:12:853 INFO  HomePage :84 - verify Message [[ChromeDriver: chrome on WINDOWS (761fb4f66c617e8c86bac5d37fba09c7)] -> xpath: //span[@class='price-value-1']]
+2020-12-06 23:12:929 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 23:12:453 INFO  HomePage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (87de1660c2971af3e30d8b2f93dd1f69)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-06 23:12:655 INFO  HomePage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-06 23:12:296 INFO  HomePage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (87de1660c2971af3e30d8b2f93dd1f69)] -> id: products-orderby]
+2020-12-06 23:12:368 INFO  HomePage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (87de1660c2971af3e30d8b2f93dd1f69)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-06 23:12:445 INFO  HomePage :49 -  Selects Processor [[ChromeDriver: chrome on WINDOWS (87de1660c2971af3e30d8b2f93dd1f69)] -> xpath: //select[@id='product_attribute_1']]
+2020-12-06 23:12:607 INFO  HomePage :60 -  select RAM from dropdow [[ChromeDriver: chrome on WINDOWS (87de1660c2971af3e30d8b2f93dd1f69)] -> xpath: //select[@id='product_attribute_2']]
+2020-12-06 23:12:664 INFO  HomePage :67 - Click HDD radio button [[ChromeDriver: chrome on WINDOWS (87de1660c2971af3e30d8b2f93dd1f69)] -> xpath: //input[@id='product_attribute_3_7']]
+2020-12-06 23:12:716 INFO  HomePage :70 - Clicks OS Radio Button [[ChromeDriver: chrome on WINDOWS (87de1660c2971af3e30d8b2f93dd1f69)] -> xpath: //input[@id='product_attribute_4_9']]
+2020-12-06 23:12:778 INFO  HomePage :78 - Check Commander Check Box [[ChromeDriver: chrome on WINDOWS (87de1660c2971af3e30d8b2f93dd1f69)] -> xpath: //input[@id='product_attribute_5_12']]
+2020-12-06 23:12:796 INFO  HomePage :84 - verify Message [[ChromeDriver: chrome on WINDOWS (87de1660c2971af3e30d8b2f93dd1f69)] -> xpath: //span[@class='price-value-1']]
+2020-12-06 23:12:874 INFO  HomePage :96 - Click on Add to Cart Button [[ChromeDriver: chrome on WINDOWS (87de1660c2971af3e30d8b2f93dd1f69)] -> xpath: //input[@id='add-to-cart-button-1']]
+2020-12-06 23:12:843 INFO  HomePage :104 -  Click on Display Notification [[ChromeDriver: chrome on WINDOWS (87de1660c2971af3e30d8b2f93dd1f69)] -> xpath: //body/div[@id='bar-notification']/div[1]]
+2020-12-06 23:12:130 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 23:12:181 INFO  HomePage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (612d5008b6eabf978531d12e71a8988e)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-06 23:12:374 INFO  HomePage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-06 23:12:608 INFO  HomePage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (612d5008b6eabf978531d12e71a8988e)] -> id: products-orderby]
+2020-12-06 23:12:674 INFO  HomePage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (612d5008b6eabf978531d12e71a8988e)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-06 23:12:23 INFO  HomePage :49 -  Selects Processor [[ChromeDriver: chrome on WINDOWS (612d5008b6eabf978531d12e71a8988e)] -> xpath: //select[@id='product_attribute_1']]
+2020-12-06 23:12:174 INFO  HomePage :60 -  select RAM from dropdow [[ChromeDriver: chrome on WINDOWS (612d5008b6eabf978531d12e71a8988e)] -> xpath: //select[@id='product_attribute_2']]
+2020-12-06 23:12:236 INFO  HomePage :67 - Click HDD radio button [[ChromeDriver: chrome on WINDOWS (612d5008b6eabf978531d12e71a8988e)] -> xpath: //input[@id='product_attribute_3_7']]
+2020-12-06 23:12:288 INFO  HomePage :70 - Clicks OS Radio Button [[ChromeDriver: chrome on WINDOWS (612d5008b6eabf978531d12e71a8988e)] -> xpath: //input[@id='product_attribute_4_9']]
+2020-12-06 23:12:352 INFO  HomePage :78 - Check Commander Check Box [[ChromeDriver: chrome on WINDOWS (612d5008b6eabf978531d12e71a8988e)] -> xpath: //input[@id='product_attribute_5_12']]
+2020-12-06 23:12:370 INFO  HomePage :84 - verify Message [[ChromeDriver: chrome on WINDOWS (612d5008b6eabf978531d12e71a8988e)] -> xpath: //span[@class='price-value-1']]
+2020-12-06 23:12:445 INFO  HomePage :96 - Click on Add to Cart Button [[ChromeDriver: chrome on WINDOWS (612d5008b6eabf978531d12e71a8988e)] -> xpath: //input[@id='add-to-cart-button-1']]
+2020-12-06 23:12:823 INFO  HomePage :104 -  Click on Display Notification [[ChromeDriver: chrome on WINDOWS (612d5008b6eabf978531d12e71a8988e)] -> xpath: //body/div[@id='bar-notification']/div[1]]
+2020-12-06 23:12:268 INFO  HomePage :41 - Mini shopping Cart [[ChromeDriver: chrome on WINDOWS (612d5008b6eabf978531d12e71a8988e)] -> xpath: //div[@class='mini-shopping-cart']//div//input]
+2020-12-06 23:12:396 INFO  HomePage :52 - Changes the qty to 2 [[ChromeDriver: chrome on WINDOWS (612d5008b6eabf978531d12e71a8988e)] -> xpath: //input[@class='qty-input']]
+2020-12-06 23:12:259 INFO  HomePage :59 - Updates final Add button [[ChromeDriver: chrome on WINDOWS (612d5008b6eabf978531d12e71a8988e)] -> xpath: //div[@class='cart-options']//div//input[@class='button-2 update-cart-button']]
+2020-12-07 00:12:42 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-07 00:12:543 INFO  HomePage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (d66b44cb18f8b35aa65809e76a34a2a9)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-07 00:12:621 INFO  HomePage :32 - Desktop Message Verification Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Desktops')]'
+2020-12-07 00:12:504 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-07 00:12:59 INFO  HomePage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (44809dbc02e93a1a9728a397ad079627)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-07 00:12:112 INFO  HomePage :32 - Desktop Message Verification Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Desktops')]'
+2020-12-07 00:12:08 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-07 00:12:478 INFO  HomePage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (171ce60cb82209c0489d7ec62a0c9573)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-07 00:12:496 INFO  HomePage :32 - Desktop Message Verification [[ChromeDriver: chrome on WINDOWS (171ce60cb82209c0489d7ec62a0c9573)] -> xpath: //h1[contains(text(),'Computers')]]
+2020-12-07 00:12:27 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-07 00:12:521 INFO  HomePage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (7f30deb3fdf5abb6f19bc695819e249b)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-07 00:12:546 INFO  HomePage :32 - Desktop Message Verification [[ChromeDriver: chrome on WINDOWS (7f30deb3fdf5abb6f19bc695819e249b)] -> xpath: //h1[contains(text(),'Computers')]]
+2020-12-07 17:12:561 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-07 17:12:517 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (37e7a7c1245d7b47d80497bd7ae3c292)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-07 17:12:537 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (37e7a7c1245d7b47d80497bd7ae3c292)] -> xpath: //div[@class='page-title']//h1]
+2020-12-07 17:12:802 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 12:12:133 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 12:12:278 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (0893407a32b31886e5f89f4e804462ed)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 12:12:318 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (0893407a32b31886e5f89f4e804462ed)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 12:12:349 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 12:12:565 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (64e7a2a55bbd3d9f90f7704c1ac29f31)] -> xpath: //a[@class='ico-register']]
+2020-12-08 12:12:589 INFO  RegistrationPage :142 - Verify Registration Message [[ChromeDriver: chrome on WINDOWS (64e7a2a55bbd3d9f90f7704c1ac29f31)] -> xpath: //h1[contains(text(),'Register')]]
+2020-12-08 12:12:156 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 12:12:596 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (32b2bddaf7d7820ee33ca681ae47ef56)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 12:12:784 INFO  LoginPage :33 - Entering email address : alphatest64@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (32b2bddaf7d7820ee33ca681ae47ef56)] -> id: Email]
+2020-12-08 12:12:930 INFO  LoginPage :40 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (32b2bddaf7d7820ee33ca681ae47ef56)] -> css selector: #Password]
+2020-12-08 12:12:11 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (32b2bddaf7d7820ee33ca681ae47ef56)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-08 12:12:43 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (32b2bddaf7d7820ee33ca681ae47ef56)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 12:12:75 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 12:12:527 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (651b6c3e77c7c30ef05873f4ed4b7178)] -> xpath: //a[@class='ico-register']]
+2020-12-08 12:12:643 INFO  RegistrationPage :63 - click on Gender [[ChromeDriver: chrome on WINDOWS (651b6c3e77c7c30ef05873f4ed4b7178)] -> xpath: //label[contains(text(),'Male')]]
+2020-12-08 12:12:807 INFO  RegistrationPage :71 - clicks and sends First Name [[ChromeDriver: chrome on WINDOWS (651b6c3e77c7c30ef05873f4ed4b7178)] -> xpath: //input[@id='FirstName']]
+2020-12-08 12:12:922 INFO  RegistrationPage :78 - clicks and sends Last Name [[ChromeDriver: chrome on WINDOWS (651b6c3e77c7c30ef05873f4ed4b7178)] -> xpath: //input[@id='LastName']]
+2020-12-08 12:12:05 INFO  RegistrationPage :85 - selects date from the DropDown [[ChromeDriver: chrome on WINDOWS (651b6c3e77c7c30ef05873f4ed4b7178)] -> xpath: //select[@name='DateOfBirthDay']//option[contains(text(),'11')]]
+2020-12-08 12:12:106 INFO  RegistrationPage :91 - selects month from the Dropdown [[ChromeDriver: chrome on WINDOWS (651b6c3e77c7c30ef05873f4ed4b7178)] -> xpath: //select[@name='DateOfBirthMonth']//option[contains(text(),'November')]]
+2020-12-08 12:12:185 INFO  RegistrationPage :97 - Selects Year from Dropdown [[ChromeDriver: chrome on WINDOWS (651b6c3e77c7c30ef05873f4ed4b7178)] -> xpath: //select[@name='DateOfBirthYear']//option[contains(text(),'2011')]]
+2020-12-08 12:12:396 INFO  RegistrationPage :104 - send Email Id to [[ChromeDriver: chrome on WINDOWS (651b6c3e77c7c30ef05873f4ed4b7178)] -> xpath: //input[@id='Email']]
+2020-12-08 12:12:549 INFO  RegistrationPage :111 - send Company Name [[ChromeDriver: chrome on WINDOWS (651b6c3e77c7c30ef05873f4ed4b7178)] -> xpath: //input[@id='Company']]
+2020-12-08 12:12:646 INFO  RegistrationPage :117 - Selects Newsletter Checkbox [[ChromeDriver: chrome on WINDOWS (651b6c3e77c7c30ef05873f4ed4b7178)] -> xpath: //input[@id='Newsletter']]
+2020-12-08 12:12:816 INFO  RegistrationPage :124 - send password to field[[ChromeDriver: chrome on WINDOWS (651b6c3e77c7c30ef05873f4ed4b7178)] -> xpath: //input[@id='Password']]
+2020-12-08 12:12:959 INFO  RegistrationPage :131 - send password to confirm password field [[ChromeDriver: chrome on WINDOWS (651b6c3e77c7c30ef05873f4ed4b7178)] -> xpath: //input[@id='ConfirmPassword']]
+2020-12-08 12:12:906 INFO  RegistrationPage :137 - Clicks on Registeration Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='register-button']'
+2020-12-08 12:12:906 INFO  RegistrationPage :148 - Verifies Successful Registration
+2020-12-08 13:12:583 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:06 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (4c5865fa26b4e576d0e1fa180b10e84a)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 13:12:188 INFO  LoginPage :33 - Entering email address : alphatest487@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (4c5865fa26b4e576d0e1fa180b10e84a)] -> id: Email]
+2020-12-08 13:12:334 INFO  LoginPage :40 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (4c5865fa26b4e576d0e1fa180b10e84a)] -> css selector: #Password]
+2020-12-08 13:12:809 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (4c5865fa26b4e576d0e1fa180b10e84a)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-08 13:12:841 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (4c5865fa26b4e576d0e1fa180b10e84a)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 13:12:873 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:158 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (a9610ff9a4dd9bedb0ec111e91451f81)] -> xpath: //a[@class='ico-register']]
+2020-12-08 13:12:287 INFO  RegistrationPage :63 - click on Gender [[ChromeDriver: chrome on WINDOWS (a9610ff9a4dd9bedb0ec111e91451f81)] -> xpath: //label[contains(text(),'Male')]]
+2020-12-08 13:12:459 INFO  RegistrationPage :71 - clicks and sends First Name [[ChromeDriver: chrome on WINDOWS (a9610ff9a4dd9bedb0ec111e91451f81)] -> xpath: //input[@id='FirstName']]
+2020-12-08 13:12:578 INFO  RegistrationPage :78 - clicks and sends Last Name [[ChromeDriver: chrome on WINDOWS (a9610ff9a4dd9bedb0ec111e91451f81)] -> xpath: //input[@id='LastName']]
+2020-12-08 13:12:648 INFO  RegistrationPage :85 - selects date from the DropDown [[ChromeDriver: chrome on WINDOWS (a9610ff9a4dd9bedb0ec111e91451f81)] -> xpath: //select[@name='DateOfBirthDay']//option[contains(text(),'11')]]
+2020-12-08 13:12:742 INFO  RegistrationPage :91 - selects month from the Dropdown [[ChromeDriver: chrome on WINDOWS (a9610ff9a4dd9bedb0ec111e91451f81)] -> xpath: //select[@name='DateOfBirthMonth']//option[contains(text(),'November')]]
+2020-12-08 13:12:821 INFO  RegistrationPage :97 - Selects Year from Dropdown [[ChromeDriver: chrome on WINDOWS (a9610ff9a4dd9bedb0ec111e91451f81)] -> xpath: //select[@name='DateOfBirthYear']//option[contains(text(),'2011')]]
+2020-12-08 13:12:23 INFO  RegistrationPage :104 - send Email Id to [[ChromeDriver: chrome on WINDOWS (a9610ff9a4dd9bedb0ec111e91451f81)] -> xpath: //input[@id='Email']]
+2020-12-08 13:12:179 INFO  RegistrationPage :111 - send Company Name [[ChromeDriver: chrome on WINDOWS (a9610ff9a4dd9bedb0ec111e91451f81)] -> xpath: //input[@id='Company']]
+2020-12-08 13:12:276 INFO  RegistrationPage :117 - Selects Newsletter Checkbox [[ChromeDriver: chrome on WINDOWS (a9610ff9a4dd9bedb0ec111e91451f81)] -> xpath: //input[@id='Newsletter']]
+2020-12-08 13:12:430 INFO  RegistrationPage :124 - send password to field[[ChromeDriver: chrome on WINDOWS (a9610ff9a4dd9bedb0ec111e91451f81)] -> xpath: //input[@id='Password']]
+2020-12-08 13:12:579 INFO  RegistrationPage :131 - send password to confirm password field [[ChromeDriver: chrome on WINDOWS (a9610ff9a4dd9bedb0ec111e91451f81)] -> xpath: //input[@id='ConfirmPassword']]
+2020-12-08 13:12:591 INFO  RegistrationPage :137 - Clicks on Registeration Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='register-button']'
+2020-12-08 13:12:592 INFO  RegistrationPage :148 - Verifies Successful Registration
+2020-12-08 13:12:70 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:471 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (2adc60d7be8c27b8e37d21ece99a9639)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 13:12:503 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (2adc60d7be8c27b8e37d21ece99a9639)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 13:12:538 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:92 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e2c4eb100faa5ea41e5d6ed698dca6a0)] -> xpath: //a[@class='ico-register']]
+2020-12-08 13:12:124 INFO  RegistrationPage :142 - Verify Registration Message [[ChromeDriver: chrome on WINDOWS (e2c4eb100faa5ea41e5d6ed698dca6a0)] -> xpath: //h1[contains(text(),'Register')]]
+2020-12-08 13:12:876 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:286 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (47bab350ae30e4a58c1ea1f3cee0d3ec)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 13:12:488 INFO  LoginPage :33 - Entering email address : alphatest579@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (47bab350ae30e4a58c1ea1f3cee0d3ec)] -> id: Email]
+2020-12-08 13:12:622 INFO  LoginPage :40 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (47bab350ae30e4a58c1ea1f3cee0d3ec)] -> css selector: #Password]
+2020-12-08 13:12:117 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (47bab350ae30e4a58c1ea1f3cee0d3ec)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-08 13:12:146 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (47bab350ae30e4a58c1ea1f3cee0d3ec)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 13:12:178 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:464 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (bf2be306691812ba92eaad044a4c471d)] -> xpath: //a[@class='ico-register']]
+2020-12-08 13:12:564 INFO  RegistrationPage :63 - click on Gender [[ChromeDriver: chrome on WINDOWS (bf2be306691812ba92eaad044a4c471d)] -> xpath: //label[contains(text(),'Male')]]
+2020-12-08 13:12:713 INFO  RegistrationPage :71 - clicks and sends First Name [[ChromeDriver: chrome on WINDOWS (bf2be306691812ba92eaad044a4c471d)] -> xpath: //input[@id='FirstName']]
+2020-12-08 13:12:815 INFO  RegistrationPage :78 - clicks and sends Last Name [[ChromeDriver: chrome on WINDOWS (bf2be306691812ba92eaad044a4c471d)] -> xpath: //input[@id='LastName']]
+2020-12-08 13:12:890 INFO  RegistrationPage :85 - selects date from the DropDown [[ChromeDriver: chrome on WINDOWS (bf2be306691812ba92eaad044a4c471d)] -> xpath: //select[@name='DateOfBirthDay']//option[contains(text(),'11')]]
+2020-12-08 13:12:964 INFO  RegistrationPage :91 - selects month from the Dropdown [[ChromeDriver: chrome on WINDOWS (bf2be306691812ba92eaad044a4c471d)] -> xpath: //select[@name='DateOfBirthMonth']//option[contains(text(),'November')]]
+2020-12-08 13:12:28 INFO  RegistrationPage :97 - Selects Year from Dropdown [[ChromeDriver: chrome on WINDOWS (bf2be306691812ba92eaad044a4c471d)] -> xpath: //select[@name='DateOfBirthYear']//option[contains(text(),'2011')]]
+2020-12-08 13:12:236 INFO  RegistrationPage :104 - send Email Id to [[ChromeDriver: chrome on WINDOWS (bf2be306691812ba92eaad044a4c471d)] -> xpath: //input[@id='Email']]
+2020-12-08 13:12:385 INFO  RegistrationPage :111 - send Company Name [[ChromeDriver: chrome on WINDOWS (bf2be306691812ba92eaad044a4c471d)] -> xpath: //input[@id='Company']]
+2020-12-08 13:12:495 INFO  RegistrationPage :117 - Selects Newsletter Checkbox [[ChromeDriver: chrome on WINDOWS (bf2be306691812ba92eaad044a4c471d)] -> xpath: //input[@id='Newsletter']]
+2020-12-08 13:12:649 INFO  RegistrationPage :124 - send password to field[[ChromeDriver: chrome on WINDOWS (bf2be306691812ba92eaad044a4c471d)] -> xpath: //input[@id='Password']]
+2020-12-08 13:12:790 INFO  RegistrationPage :131 - send password to confirm password field [[ChromeDriver: chrome on WINDOWS (bf2be306691812ba92eaad044a4c471d)] -> xpath: //input[@id='ConfirmPassword']]
+2020-12-08 13:12:348 INFO  RegistrationPage :137 - Clicks on Registeration Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='register-button']'
+2020-12-08 13:12:348 INFO  RegistrationPage :148 - Verifies Successful Registration
+2020-12-08 13:12:798 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:261 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (b4e69b2b14d82f88eb40cf28aecd648c)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 13:12:309 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (b4e69b2b14d82f88eb40cf28aecd648c)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 13:12:339 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:604 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0a4cb4cd47a6deedc62da33ebd5315a4)] -> xpath: //a[@class='ico-register']]
+2020-12-08 13:12:636 INFO  RegistrationPage :142 - Verify Registration Message [[ChromeDriver: chrome on WINDOWS (0a4cb4cd47a6deedc62da33ebd5315a4)] -> xpath: //h1[contains(text(),'Register')]]
+2020-12-08 13:12:885 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:186 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (7f52aad3aef2765203f5c3ea517d785d)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 13:12:217 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7f52aad3aef2765203f5c3ea517d785d)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 13:12:249 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:527 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (aabed95019395f328970c2cf69c0c574)] -> xpath: //a[@class='ico-register']]
+2020-12-08 13:12:559 INFO  RegistrationPage :142 - Verify Registration Message [[ChromeDriver: chrome on WINDOWS (aabed95019395f328970c2cf69c0c574)] -> xpath: //h1[contains(text(),'Register')]]
+2020-12-08 13:12:833 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:145 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (95b1bcdae73d193774e4bcce5fddb2ce)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 13:12:177 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (95b1bcdae73d193774e4bcce5fddb2ce)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 13:12:863 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:268 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c5f50cd6bcd911d379a9361fc6410601)] -> xpath: //a[@class='ico-register']]
+2020-12-08 13:12:300 INFO  RegistrationPage :142 - Verify Registration Message [[ChromeDriver: chrome on WINDOWS (c5f50cd6bcd911d379a9361fc6410601)] -> xpath: //h1[contains(text(),'Register')]]
+2020-12-08 13:12:149 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:408 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (f5ff50c6d2cca5e8de034278988df420)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 13:12:440 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (f5ff50c6d2cca5e8de034278988df420)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 13:12:106 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:570 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5aa999f0db5d1de01c540eb7a5c6a53f)] -> xpath: //a[@class='ico-register']]
+2020-12-08 13:12:602 INFO  RegistrationPage :142 - Verify Registration Message [[ChromeDriver: chrome on WINDOWS (5aa999f0db5d1de01c540eb7a5c6a53f)] -> xpath: //h1[contains(text(),'Register')]]
+2020-12-08 13:12:619 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:826 INFO  ComputerPage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (78d10459b378d77f21876dd91565fc5a)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 13:12:858 INFO  ComputerPage :32 - Desktop Message Verification [[ChromeDriver: chrome on WINDOWS (78d10459b378d77f21876dd91565fc5a)] -> xpath: //h1[contains(text(),'Computers')]]
+2020-12-08 13:12:384 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:741 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (8624f9dfe3f293f5e2d2ab34155f15f8)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 13:12:773 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (8624f9dfe3f293f5e2d2ab34155f15f8)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 13:12:459 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:846 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (352234294043318150ec9704a60f12b9)] -> xpath: //a[@class='ico-register']]
+2020-12-08 13:12:878 INFO  RegistrationPage :142 - Verify Registration Message [[ChromeDriver: chrome on WINDOWS (352234294043318150ec9704a60f12b9)] -> xpath: //h1[contains(text(),'Register')]]
+2020-12-08 13:12:902 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:13 INFO  ComputerPage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (c98a3c599b461d5a83b3d13be31b0a85)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 13:12:53 INFO  ComputerPage :32 - Desktop Message Verification [[ChromeDriver: chrome on WINDOWS (c98a3c599b461d5a83b3d13be31b0a85)] -> xpath: //h1[contains(text(),'Computers')]]
+2020-12-08 13:12:273 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:519 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (85d1b24a80dc06dedb87f3b9355ba7ad)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 13:12:551 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (85d1b24a80dc06dedb87f3b9355ba7ad)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 13:12:224 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:348 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (9e6ee7be2b0b60f524ed3bf8fba07e27)] -> xpath: //a[@class='ico-register']]
+2020-12-08 13:12:380 INFO  RegistrationPage :142 - Verify Registration Message [[ChromeDriver: chrome on WINDOWS (9e6ee7be2b0b60f524ed3bf8fba07e27)] -> xpath: //h1[contains(text(),'Register')]]
+2020-12-08 13:12:404 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:557 INFO  ComputerPage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (faacee5546a3a5aa1291f13ead1c584b)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 13:12:589 INFO  ComputerPage :32 - Desktop Message Verification [[ChromeDriver: chrome on WINDOWS (faacee5546a3a5aa1291f13ead1c584b)] -> xpath: //h1[contains(text(),'Computers')]]
+2020-12-08 13:12:610 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:970 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (828da7ddbd6320409f33197e8614a464)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 13:12:02 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (828da7ddbd6320409f33197e8614a464)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 13:12:685 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:186 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0ccd443c02ac9dea224c75879ab3186b)] -> xpath: //a[@class='ico-register']]
+2020-12-08 13:12:218 INFO  RegistrationPage :142 - Verify Registration Message [[ChromeDriver: chrome on WINDOWS (0ccd443c02ac9dea224c75879ab3186b)] -> xpath: //h1[contains(text(),'Register')]]
+2020-12-08 13:12:901 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 13:12:08 INFO  ComputerPage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (07dd579a13ba19c046eb11b0a3bc63ce)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 13:12:40 INFO  ComputerPage :32 - Desktop Message Verification [[ChromeDriver: chrome on WINDOWS (07dd579a13ba19c046eb11b0a3bc63ce)] -> xpath: //h1[contains(text(),'Computers')]]
+2020-12-08 14:12:163 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:422 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (edb5c8e168ce6b0626fa792506711358)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 14:12:586 INFO  LoginPage :33 - Entering email address : alphatest211@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (edb5c8e168ce6b0626fa792506711358)] -> id: Email]
+2020-12-08 14:12:728 INFO  LoginPage :40 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (edb5c8e168ce6b0626fa792506711358)] -> css selector: #Password]
+2020-12-08 14:12:831 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (edb5c8e168ce6b0626fa792506711358)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-08 14:12:871 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (edb5c8e168ce6b0626fa792506711358)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 14:12:974 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:277 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c5308f5f10534f8608d4ab9cc00eed7f)] -> xpath: //a[@class='ico-register']]
+2020-12-08 14:12:419 INFO  RegistrationPage :63 - click on Gender [[ChromeDriver: chrome on WINDOWS (c5308f5f10534f8608d4ab9cc00eed7f)] -> xpath: //label[contains(text(),'Male')]]
+2020-12-08 14:12:573 INFO  RegistrationPage :71 - clicks and sends First Name [[ChromeDriver: chrome on WINDOWS (c5308f5f10534f8608d4ab9cc00eed7f)] -> xpath: //input[@id='FirstName']]
+2020-12-08 14:12:675 INFO  RegistrationPage :78 - clicks and sends Last Name [[ChromeDriver: chrome on WINDOWS (c5308f5f10534f8608d4ab9cc00eed7f)] -> xpath: //input[@id='LastName']]
+2020-12-08 14:12:759 INFO  RegistrationPage :85 - selects date from the DropDown [[ChromeDriver: chrome on WINDOWS (c5308f5f10534f8608d4ab9cc00eed7f)] -> xpath: //select[@name='DateOfBirthDay']//option[contains(text(),'11')]]
+2020-12-08 14:12:847 INFO  RegistrationPage :91 - selects month from the Dropdown [[ChromeDriver: chrome on WINDOWS (c5308f5f10534f8608d4ab9cc00eed7f)] -> xpath: //select[@name='DateOfBirthMonth']//option[contains(text(),'November')]]
+2020-12-08 14:12:929 INFO  RegistrationPage :97 - Selects Year from Dropdown [[ChromeDriver: chrome on WINDOWS (c5308f5f10534f8608d4ab9cc00eed7f)] -> xpath: //select[@name='DateOfBirthYear']//option[contains(text(),'2011')]]
+2020-12-08 14:12:108 INFO  RegistrationPage :104 - send Email Id to [[ChromeDriver: chrome on WINDOWS (c5308f5f10534f8608d4ab9cc00eed7f)] -> xpath: //input[@id='Email']]
+2020-12-08 14:12:259 INFO  RegistrationPage :111 - send Company Name [[ChromeDriver: chrome on WINDOWS (c5308f5f10534f8608d4ab9cc00eed7f)] -> xpath: //input[@id='Company']]
+2020-12-08 14:12:365 INFO  RegistrationPage :117 - Selects Newsletter Checkbox [[ChromeDriver: chrome on WINDOWS (c5308f5f10534f8608d4ab9cc00eed7f)] -> xpath: //input[@id='Newsletter']]
+2020-12-08 14:12:528 INFO  RegistrationPage :124 - send password to field[[ChromeDriver: chrome on WINDOWS (c5308f5f10534f8608d4ab9cc00eed7f)] -> xpath: //input[@id='Password']]
+2020-12-08 14:12:662 INFO  RegistrationPage :131 - send password to confirm password field [[ChromeDriver: chrome on WINDOWS (c5308f5f10534f8608d4ab9cc00eed7f)] -> xpath: //input[@id='ConfirmPassword']]
+2020-12-08 14:12:762 INFO  RegistrationPage :137 - Clicks on Registeration Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='register-button']'
+2020-12-08 14:12:762 INFO  RegistrationPage :148 - Verifies Successful Registration
+2020-12-08 14:12:381 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:843 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (7138806bffe99099ec7c01513aea51e5)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 14:12:41 INFO  LoginPage :33 - Entering email address : alphatest921@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (7138806bffe99099ec7c01513aea51e5)] -> id: Email]
+2020-12-08 14:12:211 INFO  LoginPage :40 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (7138806bffe99099ec7c01513aea51e5)] -> css selector: #Password]
+2020-12-08 14:12:360 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (7138806bffe99099ec7c01513aea51e5)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-08 14:12:373 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7138806bffe99099ec7c01513aea51e5)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 14:12:82 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:475 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (d746a9da6f5e6f6a6435f2a8fd7529db)] -> xpath: //a[@class='ico-register']]
+2020-12-08 14:12:597 INFO  RegistrationPage :63 - click on Gender [[ChromeDriver: chrome on WINDOWS (d746a9da6f5e6f6a6435f2a8fd7529db)] -> xpath: //label[contains(text(),'Male')]]
+2020-12-08 14:12:778 INFO  RegistrationPage :71 - clicks and sends First Name [[ChromeDriver: chrome on WINDOWS (d746a9da6f5e6f6a6435f2a8fd7529db)] -> xpath: //input[@id='FirstName']]
+2020-12-08 14:12:884 INFO  RegistrationPage :78 - clicks and sends Last Name [[ChromeDriver: chrome on WINDOWS (d746a9da6f5e6f6a6435f2a8fd7529db)] -> xpath: //input[@id='LastName']]
+2020-12-08 14:12:962 INFO  RegistrationPage :85 - selects date from the DropDown [[ChromeDriver: chrome on WINDOWS (d746a9da6f5e6f6a6435f2a8fd7529db)] -> xpath: //select[@name='DateOfBirthDay']//option[contains(text(),'11')]]
+2020-12-08 14:12:40 INFO  RegistrationPage :91 - selects month from the Dropdown [[ChromeDriver: chrome on WINDOWS (d746a9da6f5e6f6a6435f2a8fd7529db)] -> xpath: //select[@name='DateOfBirthMonth']//option[contains(text(),'November')]]
+2020-12-08 14:12:123 INFO  RegistrationPage :97 - Selects Year from Dropdown [[ChromeDriver: chrome on WINDOWS (d746a9da6f5e6f6a6435f2a8fd7529db)] -> xpath: //select[@name='DateOfBirthYear']//option[contains(text(),'2011')]]
+2020-12-08 14:12:295 INFO  RegistrationPage :104 - send Email Id to [[ChromeDriver: chrome on WINDOWS (d746a9da6f5e6f6a6435f2a8fd7529db)] -> xpath: //input[@id='Email']]
+2020-12-08 14:12:473 INFO  RegistrationPage :111 - send Company Name [[ChromeDriver: chrome on WINDOWS (d746a9da6f5e6f6a6435f2a8fd7529db)] -> xpath: //input[@id='Company']]
+2020-12-08 14:12:567 INFO  RegistrationPage :117 - Selects Newsletter Checkbox [[ChromeDriver: chrome on WINDOWS (d746a9da6f5e6f6a6435f2a8fd7529db)] -> xpath: //input[@id='Newsletter']]
+2020-12-08 14:12:707 INFO  RegistrationPage :124 - send password to field[[ChromeDriver: chrome on WINDOWS (d746a9da6f5e6f6a6435f2a8fd7529db)] -> xpath: //input[@id='Password']]
+2020-12-08 14:12:864 INFO  RegistrationPage :131 - send password to confirm password field [[ChromeDriver: chrome on WINDOWS (d746a9da6f5e6f6a6435f2a8fd7529db)] -> xpath: //input[@id='ConfirmPassword']]
+2020-12-08 14:12:360 INFO  RegistrationPage :137 - Clicks on Registeration Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='register-button']'
+2020-12-08 14:12:360 INFO  RegistrationPage :148 - Verifies Successful Registration
+2020-12-08 14:12:842 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:109 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (460c8d0144aebf0e7ef1235604f76782)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 14:12:293 INFO  LoginPage :33 - Entering email address : alphatest783@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (460c8d0144aebf0e7ef1235604f76782)] -> id: Email]
+2020-12-08 14:12:444 INFO  LoginPage :40 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (460c8d0144aebf0e7ef1235604f76782)] -> css selector: #Password]
+2020-12-08 14:12:938 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (460c8d0144aebf0e7ef1235604f76782)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-08 14:12:969 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (460c8d0144aebf0e7ef1235604f76782)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 14:12:677 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:785 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (83bab4e466189999820f0c2c94c6c810)] -> xpath: //a[@class='ico-register']]
+2020-12-08 14:12:902 INFO  RegistrationPage :63 - click on Gender [[ChromeDriver: chrome on WINDOWS (83bab4e466189999820f0c2c94c6c810)] -> xpath: //label[contains(text(),'Male')]]
+2020-12-08 14:12:68 INFO  RegistrationPage :71 - clicks and sends First Name [[ChromeDriver: chrome on WINDOWS (83bab4e466189999820f0c2c94c6c810)] -> xpath: //input[@id='FirstName']]
+2020-12-08 14:12:172 INFO  RegistrationPage :78 - clicks and sends Last Name [[ChromeDriver: chrome on WINDOWS (83bab4e466189999820f0c2c94c6c810)] -> xpath: //input[@id='LastName']]
+2020-12-08 14:12:254 INFO  RegistrationPage :85 - selects date from the DropDown [[ChromeDriver: chrome on WINDOWS (83bab4e466189999820f0c2c94c6c810)] -> xpath: //select[@name='DateOfBirthDay']//option[contains(text(),'11')]]
+2020-12-08 14:12:352 INFO  RegistrationPage :91 - selects month from the Dropdown [[ChromeDriver: chrome on WINDOWS (83bab4e466189999820f0c2c94c6c810)] -> xpath: //select[@name='DateOfBirthMonth']//option[contains(text(),'November')]]
+2020-12-08 14:12:452 INFO  RegistrationPage :97 - Selects Year from Dropdown [[ChromeDriver: chrome on WINDOWS (83bab4e466189999820f0c2c94c6c810)] -> xpath: //select[@name='DateOfBirthYear']//option[contains(text(),'2011')]]
+2020-12-08 14:12:622 INFO  RegistrationPage :104 - send Email Id to [[ChromeDriver: chrome on WINDOWS (83bab4e466189999820f0c2c94c6c810)] -> xpath: //input[@id='Email']]
+2020-12-08 14:12:783 INFO  RegistrationPage :111 - send Company Name [[ChromeDriver: chrome on WINDOWS (83bab4e466189999820f0c2c94c6c810)] -> xpath: //input[@id='Company']]
+2020-12-08 14:12:890 INFO  RegistrationPage :117 - Selects Newsletter Checkbox [[ChromeDriver: chrome on WINDOWS (83bab4e466189999820f0c2c94c6c810)] -> xpath: //input[@id='Newsletter']]
+2020-12-08 14:12:64 INFO  RegistrationPage :124 - send password to field[[ChromeDriver: chrome on WINDOWS (83bab4e466189999820f0c2c94c6c810)] -> xpath: //input[@id='Password']]
+2020-12-08 14:12:211 INFO  RegistrationPage :131 - send password to confirm password field [[ChromeDriver: chrome on WINDOWS (83bab4e466189999820f0c2c94c6c810)] -> xpath: //input[@id='ConfirmPassword']]
+2020-12-08 14:12:639 INFO  RegistrationPage :137 - Clicks on Registeration Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='register-button']'
+2020-12-08 14:12:639 INFO  RegistrationPage :148 - Verifies Successful Registration
+2020-12-08 14:12:335 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:650 INFO  DesktopPage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (d1b70e4abec9b68bf3a530e47387a329)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 14:12:856 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-08 14:12:627 INFO  DesktopPage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (d1b70e4abec9b68bf3a530e47387a329)] -> id: products-orderby]
+2020-12-08 14:12:526 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (d1b70e4abec9b68bf3a530e47387a329)] -> id: products-orderby]
+2020-12-08 14:12:625 INFO  DesktopPage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (d1b70e4abec9b68bf3a530e47387a329)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-08 14:12:642 INFO  DesktopPage :110 - Verify Actual Message [[ChromeDriver: chrome on WINDOWS (d1b70e4abec9b68bf3a530e47387a329)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2020-12-08 14:12:405 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:719 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (7156cfcdaf9ae651f8f783f9d55fb1ef)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 14:12:874 INFO  LoginPage :33 - Entering email address : alphatest757@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (7156cfcdaf9ae651f8f783f9d55fb1ef)] -> id: Email]
+2020-12-08 14:12:38 INFO  LoginPage :40 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (7156cfcdaf9ae651f8f783f9d55fb1ef)] -> css selector: #Password]
+2020-12-08 14:12:61 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (7156cfcdaf9ae651f8f783f9d55fb1ef)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-08 14:12:93 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7156cfcdaf9ae651f8f783f9d55fb1ef)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 14:12:792 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:934 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5dcb05248391ebdf34f532be0b90a6e0)] -> xpath: //a[@class='ico-register']]
+2020-12-08 14:12:58 INFO  RegistrationPage :63 - click on Gender [[ChromeDriver: chrome on WINDOWS (5dcb05248391ebdf34f532be0b90a6e0)] -> xpath: //label[contains(text(),'Male')]]
+2020-12-08 14:12:212 INFO  RegistrationPage :71 - clicks and sends First Name [[ChromeDriver: chrome on WINDOWS (5dcb05248391ebdf34f532be0b90a6e0)] -> xpath: //input[@id='FirstName']]
+2020-12-08 14:12:314 INFO  RegistrationPage :78 - clicks and sends Last Name [[ChromeDriver: chrome on WINDOWS (5dcb05248391ebdf34f532be0b90a6e0)] -> xpath: //input[@id='LastName']]
+2020-12-08 14:12:402 INFO  RegistrationPage :85 - selects date from the DropDown [[ChromeDriver: chrome on WINDOWS (5dcb05248391ebdf34f532be0b90a6e0)] -> xpath: //select[@name='DateOfBirthDay']//option[contains(text(),'11')]]
+2020-12-08 14:12:487 INFO  RegistrationPage :91 - selects month from the Dropdown [[ChromeDriver: chrome on WINDOWS (5dcb05248391ebdf34f532be0b90a6e0)] -> xpath: //select[@name='DateOfBirthMonth']//option[contains(text(),'November')]]
+2020-12-08 14:12:570 INFO  RegistrationPage :97 - Selects Year from Dropdown [[ChromeDriver: chrome on WINDOWS (5dcb05248391ebdf34f532be0b90a6e0)] -> xpath: //select[@name='DateOfBirthYear']//option[contains(text(),'2011')]]
+2020-12-08 14:12:738 INFO  RegistrationPage :104 - send Email Id to [[ChromeDriver: chrome on WINDOWS (5dcb05248391ebdf34f532be0b90a6e0)] -> xpath: //input[@id='Email']]
+2020-12-08 14:12:906 INFO  RegistrationPage :111 - send Company Name [[ChromeDriver: chrome on WINDOWS (5dcb05248391ebdf34f532be0b90a6e0)] -> xpath: //input[@id='Company']]
+2020-12-08 14:12:15 INFO  RegistrationPage :117 - Selects Newsletter Checkbox [[ChromeDriver: chrome on WINDOWS (5dcb05248391ebdf34f532be0b90a6e0)] -> xpath: //input[@id='Newsletter']]
+2020-12-08 14:12:169 INFO  RegistrationPage :124 - send password to field[[ChromeDriver: chrome on WINDOWS (5dcb05248391ebdf34f532be0b90a6e0)] -> xpath: //input[@id='Password']]
+2020-12-08 14:12:324 INFO  RegistrationPage :131 - send password to confirm password field [[ChromeDriver: chrome on WINDOWS (5dcb05248391ebdf34f532be0b90a6e0)] -> xpath: //input[@id='ConfirmPassword']]
+2020-12-08 14:12:290 INFO  RegistrationPage :137 - Clicks on Registeration Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='register-button']'
+2020-12-08 14:12:290 INFO  RegistrationPage :148 - Verifies Successful Registration
+2020-12-08 14:12:972 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:152 INFO  DesktopPage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (1558dba16b801b2fad1fb21acaf805b4)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 14:12:806 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-08 14:12:613 INFO  DesktopPage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (1558dba16b801b2fad1fb21acaf805b4)] -> id: products-orderby]
+2020-12-08 14:12:412 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (1558dba16b801b2fad1fb21acaf805b4)] -> id: products-orderby]
+2020-12-08 14:12:520 INFO  DesktopPage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (1558dba16b801b2fad1fb21acaf805b4)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-08 14:12:32 INFO  DesktopPage :110 - Verify Actual Message [[ChromeDriver: chrome on WINDOWS (1558dba16b801b2fad1fb21acaf805b4)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2020-12-08 14:12:767 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:93 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (9995e54280d3274ec83d002ffa22ca5c)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 14:12:276 INFO  LoginPage :33 - Entering email address : alphatest705@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (9995e54280d3274ec83d002ffa22ca5c)] -> id: Email]
+2020-12-08 14:12:426 INFO  LoginPage :40 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (9995e54280d3274ec83d002ffa22ca5c)] -> css selector: #Password]
+2020-12-08 14:12:603 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (9995e54280d3274ec83d002ffa22ca5c)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-08 14:12:638 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (9995e54280d3274ec83d002ffa22ca5c)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 14:12:325 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:916 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (b9ea0c769f1fda0081adde1bd709e724)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 14:12:948 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (b9ea0c769f1fda0081adde1bd709e724)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 14:12:647 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:660 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (04677a45d039917d65e988b06ccc0a46)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 14:12:846 INFO  LoginPage :33 - Entering email address : betatest123@me.com.com to email field : [[ChromeDriver: chrome on WINDOWS (04677a45d039917d65e988b06ccc0a46)] -> id: Email]
+2020-12-08 14:12:988 INFO  LoginPage :40 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (04677a45d039917d65e988b06ccc0a46)] -> css selector: #Password]
+2020-12-08 14:12:59 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (04677a45d039917d65e988b06ccc0a46)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-08 14:12:87 INFO  LoginPage :57 - Getting error text from [[ChromeDriver: chrome on WINDOWS (04677a45d039917d65e988b06ccc0a46)] -> xpath: //div[@class = 'message-error validation-summary-errors']]
+2020-12-08 14:12:780 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:192 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (f72fda3fbeed1c2d6ec7118fbad5bfa6)] -> xpath: //a[@class='ico-register']]
+2020-12-08 14:12:307 INFO  RegistrationPage :63 - click on Gender [[ChromeDriver: chrome on WINDOWS (f72fda3fbeed1c2d6ec7118fbad5bfa6)] -> xpath: //label[contains(text(),'Male')]]
+2020-12-08 14:12:460 INFO  RegistrationPage :71 - clicks and sends First Name [[ChromeDriver: chrome on WINDOWS (f72fda3fbeed1c2d6ec7118fbad5bfa6)] -> xpath: //input[@id='FirstName']]
+2020-12-08 14:12:559 INFO  RegistrationPage :78 - clicks and sends Last Name [[ChromeDriver: chrome on WINDOWS (f72fda3fbeed1c2d6ec7118fbad5bfa6)] -> xpath: //input[@id='LastName']]
+2020-12-08 14:12:645 INFO  RegistrationPage :85 - selects date from the DropDown [[ChromeDriver: chrome on WINDOWS (f72fda3fbeed1c2d6ec7118fbad5bfa6)] -> xpath: //select[@name='DateOfBirthDay']//option[contains(text(),'11')]]
+2020-12-08 14:12:736 INFO  RegistrationPage :91 - selects month from the Dropdown [[ChromeDriver: chrome on WINDOWS (f72fda3fbeed1c2d6ec7118fbad5bfa6)] -> xpath: //select[@name='DateOfBirthMonth']//option[contains(text(),'November')]]
+2020-12-08 14:12:830 INFO  RegistrationPage :97 - Selects Year from Dropdown [[ChromeDriver: chrome on WINDOWS (f72fda3fbeed1c2d6ec7118fbad5bfa6)] -> xpath: //select[@name='DateOfBirthYear']//option[contains(text(),'2011')]]
+2020-12-08 14:12:09 INFO  RegistrationPage :104 - send Email Id to [[ChromeDriver: chrome on WINDOWS (f72fda3fbeed1c2d6ec7118fbad5bfa6)] -> xpath: //input[@id='Email']]
+2020-12-08 14:12:181 INFO  RegistrationPage :111 - send Company Name [[ChromeDriver: chrome on WINDOWS (f72fda3fbeed1c2d6ec7118fbad5bfa6)] -> xpath: //input[@id='Company']]
+2020-12-08 14:12:285 INFO  RegistrationPage :117 - Selects Newsletter Checkbox [[ChromeDriver: chrome on WINDOWS (f72fda3fbeed1c2d6ec7118fbad5bfa6)] -> xpath: //input[@id='Newsletter']]
+2020-12-08 14:12:444 INFO  RegistrationPage :124 - send password to field[[ChromeDriver: chrome on WINDOWS (f72fda3fbeed1c2d6ec7118fbad5bfa6)] -> xpath: //input[@id='Password']]
+2020-12-08 14:12:593 INFO  RegistrationPage :131 - send password to confirm password field [[ChromeDriver: chrome on WINDOWS (f72fda3fbeed1c2d6ec7118fbad5bfa6)] -> xpath: //input[@id='ConfirmPassword']]
+2020-12-08 14:12:675 INFO  RegistrationPage :137 - Clicks on Registeration Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='register-button']'
+2020-12-08 14:12:675 INFO  RegistrationPage :148 - Verifies Successful Registration
+2020-12-08 14:12:406 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:669 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3c2a04613525b581a8dd103f8fc8c5c1)] -> xpath: //a[@class='ico-register']]
+2020-12-08 14:12:701 INFO  RegistrationPage :142 - Verify Registration Message [[ChromeDriver: chrome on WINDOWS (3c2a04613525b581a8dd103f8fc8c5c1)] -> xpath: //h1[contains(text(),'Register')]]
+2020-12-08 14:12:455 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:525 INFO  ComputerPage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (688afdb12ea6e06a6dd686bcd6ccd1d9)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 14:12:565 INFO  ComputerPage :32 - Desktop Message Verification [[ChromeDriver: chrome on WINDOWS (688afdb12ea6e06a6dd686bcd6ccd1d9)] -> xpath: //h1[contains(text(),'Computers')]]
+2020-12-08 14:12:244 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:880 INFO  DesktopPage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (441e5af67f87580b68336a3f295adea9)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 14:12:104 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-08 14:12:822 INFO  DesktopPage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (441e5af67f87580b68336a3f295adea9)] -> id: products-orderby]
+2020-12-08 14:12:244 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (441e5af67f87580b68336a3f295adea9)] -> id: products-orderby]
+2020-12-08 14:12:363 INFO  DesktopPage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (441e5af67f87580b68336a3f295adea9)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-08 14:12:87 INFO  DesktopPage :110 - Verify Actual Message [[ChromeDriver: chrome on WINDOWS (441e5af67f87580b68336a3f295adea9)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2020-12-08 14:12:779 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:158 INFO  DesktopPage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (3fd12b4e1b07d08ff0acdee71ddfebbd)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 14:12:787 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-08 14:12:179 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (3fd12b4e1b07d08ff0acdee71ddfebbd)] -> id: products-orderby]
+2020-12-08 14:12:282 INFO  DesktopPage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (3fd12b4e1b07d08ff0acdee71ddfebbd)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-08 14:12:34 INFO  BuildYourComputerPage :49 -  Selects Processor [[ChromeDriver: chrome on WINDOWS (3fd12b4e1b07d08ff0acdee71ddfebbd)] -> xpath: //select[@id='product_attribute_1']]
+2020-12-08 14:12:295 INFO  BuildYourComputerPage :60 -  select RAM from dropdow [[ChromeDriver: chrome on WINDOWS (3fd12b4e1b07d08ff0acdee71ddfebbd)] -> xpath: //select[@id='product_attribute_2']]
+2020-12-08 14:12:413 INFO  BuildYourComputerPage :67 - Click HDD radio button [[ChromeDriver: chrome on WINDOWS (3fd12b4e1b07d08ff0acdee71ddfebbd)] -> xpath: //input[@id='product_attribute_3_7']]
+2020-12-08 14:12:525 INFO  BuildYourComputerPage :70 - Clicks OS Radio Button [[ChromeDriver: chrome on WINDOWS (3fd12b4e1b07d08ff0acdee71ddfebbd)] -> xpath: //input[@id='product_attribute_4_9']]
+2020-12-08 14:12:644 INFO  BuildYourComputerPage :78 - Check Commander Check Box [[ChromeDriver: chrome on WINDOWS (3fd12b4e1b07d08ff0acdee71ddfebbd)] -> xpath: //input[@id='product_attribute_5_12']]
+2020-12-08 14:12:676 INFO  BuildYourComputerPage :84 - verify Message [[ChromeDriver: chrome on WINDOWS (3fd12b4e1b07d08ff0acdee71ddfebbd)] -> xpath: //span[@class='price-value-1']]
+2020-12-08 14:12:831 INFO  BuildYourComputerPage :96 - Click on Add to Cart Button [[ChromeDriver: chrome on WINDOWS (3fd12b4e1b07d08ff0acdee71ddfebbd)] -> xpath: //input[@id='add-to-cart-button-1']]
+2020-12-08 14:12:234 INFO  BuildYourComputerPage :104 -  Click on Display Notification [[ChromeDriver: chrome on WINDOWS (3fd12b4e1b07d08ff0acdee71ddfebbd)] -> xpath: //body/div[@id='bar-notification']/div[1]]
+2020-12-08 14:12:895 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:61 INFO  DesktopPage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (b6785ec42d77b8e90302ce086cb44cb5)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 14:12:290 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-08 14:12:714 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (b6785ec42d77b8e90302ce086cb44cb5)] -> id: products-orderby]
+2020-12-08 14:12:817 INFO  DesktopPage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (b6785ec42d77b8e90302ce086cb44cb5)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-08 14:12:740 INFO  BuildYourComputerPage :49 -  Selects Processor [[ChromeDriver: chrome on WINDOWS (b6785ec42d77b8e90302ce086cb44cb5)] -> xpath: //select[@id='product_attribute_1']]
+2020-12-08 14:12:03 INFO  BuildYourComputerPage :60 -  select RAM from dropdow [[ChromeDriver: chrome on WINDOWS (b6785ec42d77b8e90302ce086cb44cb5)] -> xpath: //select[@id='product_attribute_2']]
+2020-12-08 14:12:99 INFO  BuildYourComputerPage :67 - Click HDD radio button [[ChromeDriver: chrome on WINDOWS (b6785ec42d77b8e90302ce086cb44cb5)] -> xpath: //input[@id='product_attribute_3_7']]
+2020-12-08 14:12:195 INFO  BuildYourComputerPage :70 - Clicks OS Radio Button [[ChromeDriver: chrome on WINDOWS (b6785ec42d77b8e90302ce086cb44cb5)] -> xpath: //input[@id='product_attribute_4_9']]
+2020-12-08 14:12:304 INFO  BuildYourComputerPage :78 - Check Commander Check Box [[ChromeDriver: chrome on WINDOWS (b6785ec42d77b8e90302ce086cb44cb5)] -> xpath: //input[@id='product_attribute_5_12']]
+2020-12-08 14:12:336 INFO  BuildYourComputerPage :84 - verify Message [[ChromeDriver: chrome on WINDOWS (b6785ec42d77b8e90302ce086cb44cb5)] -> xpath: //span[@class='price-value-1']]
+2020-12-08 14:12:540 INFO  BuildYourComputerPage :96 - Click on Add to Cart Button [[ChromeDriver: chrome on WINDOWS (b6785ec42d77b8e90302ce086cb44cb5)] -> xpath: //input[@id='add-to-cart-button-1']]
+2020-12-08 14:12:904 INFO  BuildYourComputerPage :104 -  Click on Display Notification [[ChromeDriver: chrome on WINDOWS (b6785ec42d77b8e90302ce086cb44cb5)] -> xpath: //body/div[@id='bar-notification']/div[1]]
+2020-12-08 14:12:528 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:944 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (333c1478f6919e9b1f6c5962f09ea7b8)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 14:12:102 INFO  LoginPage :33 - Entering email address : alphatest322@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (333c1478f6919e9b1f6c5962f09ea7b8)] -> id: Email]
+2020-12-08 14:12:254 INFO  LoginPage :40 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (333c1478f6919e9b1f6c5962f09ea7b8)] -> css selector: #Password]
+2020-12-08 14:12:767 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (333c1478f6919e9b1f6c5962f09ea7b8)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-08 14:12:797 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (333c1478f6919e9b1f6c5962f09ea7b8)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 14:12:558 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:485 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (9edeb261cf2e1bad4631af91cc4fa571)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 14:12:517 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (9edeb261cf2e1bad4631af91cc4fa571)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 14:12:159 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:698 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (2e264cc218b977878a28391ed611e9c7)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 14:12:885 INFO  LoginPage :33 - Entering email address : betatest123@me.com.com to email field : [[ChromeDriver: chrome on WINDOWS (2e264cc218b977878a28391ed611e9c7)] -> id: Email]
+2020-12-08 14:12:18 INFO  LoginPage :40 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (2e264cc218b977878a28391ed611e9c7)] -> css selector: #Password]
+2020-12-08 14:12:102 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (2e264cc218b977878a28391ed611e9c7)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-08 14:12:127 INFO  LoginPage :57 - Getting error text from [[ChromeDriver: chrome on WINDOWS (2e264cc218b977878a28391ed611e9c7)] -> xpath: //div[@class = 'message-error validation-summary-errors']]
+2020-12-08 14:12:844 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:81 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3e4488a0a11484cd2a3738bda9385ddb)] -> xpath: //a[@class='ico-register']]
+2020-12-08 14:12:201 INFO  RegistrationPage :63 - click on Gender [[ChromeDriver: chrome on WINDOWS (3e4488a0a11484cd2a3738bda9385ddb)] -> xpath: //label[contains(text(),'Male')]]
+2020-12-08 14:12:376 INFO  RegistrationPage :71 - clicks and sends First Name [[ChromeDriver: chrome on WINDOWS (3e4488a0a11484cd2a3738bda9385ddb)] -> xpath: //input[@id='FirstName']]
+2020-12-08 14:12:487 INFO  RegistrationPage :78 - clicks and sends Last Name [[ChromeDriver: chrome on WINDOWS (3e4488a0a11484cd2a3738bda9385ddb)] -> xpath: //input[@id='LastName']]
+2020-12-08 14:12:542 INFO  RegistrationPage :85 - selects date from the DropDown [[ChromeDriver: chrome on WINDOWS (3e4488a0a11484cd2a3738bda9385ddb)] -> xpath: //select[@name='DateOfBirthDay']//option[contains(text(),'11')]]
+2020-12-08 14:12:638 INFO  RegistrationPage :91 - selects month from the Dropdown [[ChromeDriver: chrome on WINDOWS (3e4488a0a11484cd2a3738bda9385ddb)] -> xpath: //select[@name='DateOfBirthMonth']//option[contains(text(),'November')]]
+2020-12-08 14:12:740 INFO  RegistrationPage :97 - Selects Year from Dropdown [[ChromeDriver: chrome on WINDOWS (3e4488a0a11484cd2a3738bda9385ddb)] -> xpath: //select[@name='DateOfBirthYear']//option[contains(text(),'2011')]]
+2020-12-08 14:12:910 INFO  RegistrationPage :104 - send Email Id to [[ChromeDriver: chrome on WINDOWS (3e4488a0a11484cd2a3738bda9385ddb)] -> xpath: //input[@id='Email']]
+2020-12-08 14:12:59 INFO  RegistrationPage :111 - send Company Name [[ChromeDriver: chrome on WINDOWS (3e4488a0a11484cd2a3738bda9385ddb)] -> xpath: //input[@id='Company']]
+2020-12-08 14:12:194 INFO  RegistrationPage :117 - Selects Newsletter Checkbox [[ChromeDriver: chrome on WINDOWS (3e4488a0a11484cd2a3738bda9385ddb)] -> xpath: //input[@id='Newsletter']]
+2020-12-08 14:12:363 INFO  RegistrationPage :124 - send password to field[[ChromeDriver: chrome on WINDOWS (3e4488a0a11484cd2a3738bda9385ddb)] -> xpath: //input[@id='Password']]
+2020-12-08 14:12:499 INFO  RegistrationPage :131 - send password to confirm password field [[ChromeDriver: chrome on WINDOWS (3e4488a0a11484cd2a3738bda9385ddb)] -> xpath: //input[@id='ConfirmPassword']]
+2020-12-08 14:12:11 INFO  RegistrationPage :137 - Clicks on Registeration Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='register-button']'
+2020-12-08 14:12:11 INFO  RegistrationPage :148 - Verifies Successful Registration
+2020-12-08 14:12:697 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:996 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (db034aac4a9a96b118c875885ee0c46a)] -> xpath: //a[@class='ico-register']]
+2020-12-08 14:12:28 INFO  RegistrationPage :142 - Verify Registration Message [[ChromeDriver: chrome on WINDOWS (db034aac4a9a96b118c875885ee0c46a)] -> xpath: //h1[contains(text(),'Register')]]
+2020-12-08 14:12:737 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:842 INFO  ComputerPage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (b9136c54c45096476092bf0c53ea08c2)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 14:12:870 INFO  ComputerPage :32 - Desktop Message Verification [[ChromeDriver: chrome on WINDOWS (b9136c54c45096476092bf0c53ea08c2)] -> xpath: //h1[contains(text(),'Computers')]]
+2020-12-08 14:12:571 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:67 INFO  DesktopPage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (22b5fef475f65950ecba1bb9f8601b62)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 14:12:355 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-08 14:12:671 INFO  DesktopPage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (22b5fef475f65950ecba1bb9f8601b62)] -> id: products-orderby]
+2020-12-08 14:12:452 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (22b5fef475f65950ecba1bb9f8601b62)] -> id: products-orderby]
+2020-12-08 14:12:548 INFO  DesktopPage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (22b5fef475f65950ecba1bb9f8601b62)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-08 14:12:216 INFO  DesktopPage :110 - Verify Actual Message [[ChromeDriver: chrome on WINDOWS (22b5fef475f65950ecba1bb9f8601b62)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2020-12-08 14:12:922 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:41 INFO  DesktopPage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (bb08f6a0432316102c8a870aa50bc55e)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 14:12:615 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-08 14:12:443 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (bb08f6a0432316102c8a870aa50bc55e)] -> id: products-orderby]
+2020-12-08 14:12:560 INFO  DesktopPage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (bb08f6a0432316102c8a870aa50bc55e)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-08 14:12:701 INFO  BuildYourComputerPage :49 -  Selects Processor [[ChromeDriver: chrome on WINDOWS (bb08f6a0432316102c8a870aa50bc55e)] -> xpath: //select[@id='product_attribute_1']]
+2020-12-08 14:12:986 INFO  BuildYourComputerPage :60 -  select RAM from dropdow [[ChromeDriver: chrome on WINDOWS (bb08f6a0432316102c8a870aa50bc55e)] -> xpath: //select[@id='product_attribute_2']]
+2020-12-08 14:12:97 INFO  BuildYourComputerPage :67 - Click HDD radio button [[ChromeDriver: chrome on WINDOWS (bb08f6a0432316102c8a870aa50bc55e)] -> xpath: //input[@id='product_attribute_3_7']]
+2020-12-08 14:12:201 INFO  BuildYourComputerPage :70 - Clicks OS Radio Button [[ChromeDriver: chrome on WINDOWS (bb08f6a0432316102c8a870aa50bc55e)] -> xpath: //input[@id='product_attribute_4_9']]
+2020-12-08 14:12:322 INFO  BuildYourComputerPage :78 - Check Commander Check Box [[ChromeDriver: chrome on WINDOWS (bb08f6a0432316102c8a870aa50bc55e)] -> xpath: //input[@id='product_attribute_5_12']]
+2020-12-08 14:12:354 INFO  BuildYourComputerPage :84 - verify Message [[ChromeDriver: chrome on WINDOWS (bb08f6a0432316102c8a870aa50bc55e)] -> xpath: //span[@class='price-value-1']]
+2020-12-08 14:12:503 INFO  BuildYourComputerPage :96 - Click on Add to Cart Button [[ChromeDriver: chrome on WINDOWS (bb08f6a0432316102c8a870aa50bc55e)] -> xpath: //input[@id='add-to-cart-button-1']]
+2020-12-08 14:12:490 INFO  BuildYourComputerPage :104 -  Click on Display Notification [[ChromeDriver: chrome on WINDOWS (bb08f6a0432316102c8a870aa50bc55e)] -> xpath: //body/div[@id='bar-notification']/div[1]]
+2020-12-08 14:12:179 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:60 INFO  DesktopPage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (f228688ee361794c9319c8cd323a8372)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 14:12:355 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-08 14:12:779 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (f228688ee361794c9319c8cd323a8372)] -> id: products-orderby]
+2020-12-08 14:12:883 INFO  DesktopPage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (f228688ee361794c9319c8cd323a8372)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-08 14:12:47 INFO  BuildYourComputerPage :49 -  Selects Processor [[ChromeDriver: chrome on WINDOWS (f228688ee361794c9319c8cd323a8372)] -> xpath: //select[@id='product_attribute_1']]
+2020-12-08 14:12:315 INFO  BuildYourComputerPage :60 -  select RAM from dropdow [[ChromeDriver: chrome on WINDOWS (f228688ee361794c9319c8cd323a8372)] -> xpath: //select[@id='product_attribute_2']]
+2020-12-08 14:12:427 INFO  BuildYourComputerPage :67 - Click HDD radio button [[ChromeDriver: chrome on WINDOWS (f228688ee361794c9319c8cd323a8372)] -> xpath: //input[@id='product_attribute_3_7']]
+2020-12-08 14:12:523 INFO  BuildYourComputerPage :70 - Clicks OS Radio Button [[ChromeDriver: chrome on WINDOWS (f228688ee361794c9319c8cd323a8372)] -> xpath: //input[@id='product_attribute_4_9']]
+2020-12-08 14:12:638 INFO  BuildYourComputerPage :78 - Check Commander Check Box [[ChromeDriver: chrome on WINDOWS (f228688ee361794c9319c8cd323a8372)] -> xpath: //input[@id='product_attribute_5_12']]
+2020-12-08 14:12:670 INFO  BuildYourComputerPage :84 - verify Message [[ChromeDriver: chrome on WINDOWS (f228688ee361794c9319c8cd323a8372)] -> xpath: //span[@class='price-value-1']]
+2020-12-08 14:12:828 INFO  BuildYourComputerPage :96 - Click on Add to Cart Button [[ChromeDriver: chrome on WINDOWS (f228688ee361794c9319c8cd323a8372)] -> xpath: //input[@id='add-to-cart-button-1']]
+2020-12-08 14:12:231 INFO  BuildYourComputerPage :104 -  Click on Display Notification [[ChromeDriver: chrome on WINDOWS (f228688ee361794c9319c8cd323a8372)] -> xpath: //body/div[@id='bar-notification']/div[1]]
+2020-12-08 14:12:199 INFO  ShoppingCartPage :42 - Mini shopping Cart [[ChromeDriver: chrome on WINDOWS (f228688ee361794c9319c8cd323a8372)] -> xpath: //div[@class='mini-shopping-cart']//div//input]
+2020-12-08 14:12:432 INFO  ShoppingCartPage :53 - Changes the qty to 2 [[ChromeDriver: chrome on WINDOWS (f228688ee361794c9319c8cd323a8372)] -> xpath: //input[@class='qty-input']]
+2020-12-08 14:12:148 INFO  ShoppingCartPage :60 - Updates final Add button [[ChromeDriver: chrome on WINDOWS (f228688ee361794c9319c8cd323a8372)] -> xpath: //div[@class='cart-options']//div//input[@class='button-2 update-cart-button']]
+2020-12-08 14:12:682 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:09 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (7d1320d694baf9197882ab53e7a651e7)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 14:12:216 INFO  LoginPage :33 - Entering email address : alphatest673@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (7d1320d694baf9197882ab53e7a651e7)] -> id: Email]
+2020-12-08 14:12:371 INFO  LoginPage :40 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (7d1320d694baf9197882ab53e7a651e7)] -> css selector: #Password]
+2020-12-08 14:12:461 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (7d1320d694baf9197882ab53e7a651e7)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-08 14:12:494 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7d1320d694baf9197882ab53e7a651e7)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 14:12:190 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:821 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (7108ae25ba1f3ae890f792a5a68d83c3)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 14:12:853 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7108ae25ba1f3ae890f792a5a68d83c3)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 14:12:496 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:389 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (9a6c632fc83b1a888579eb3e60a683d3)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 14:12:579 INFO  LoginPage :33 - Entering email address : betatest123@me.com.com to email field : [[ChromeDriver: chrome on WINDOWS (9a6c632fc83b1a888579eb3e60a683d3)] -> id: Email]
+2020-12-08 14:12:725 INFO  LoginPage :40 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (9a6c632fc83b1a888579eb3e60a683d3)] -> css selector: #Password]
+2020-12-08 14:12:782 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (9a6c632fc83b1a888579eb3e60a683d3)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-08 14:12:796 INFO  LoginPage :57 - Getting error text from [[ChromeDriver: chrome on WINDOWS (9a6c632fc83b1a888579eb3e60a683d3)] -> xpath: //div[@class = 'message-error validation-summary-errors']]
+2020-12-08 14:12:503 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:580 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (90d1aea1de0355cd3b653194b03b7c47)] -> xpath: //a[@class='ico-register']]
+2020-12-08 14:12:707 INFO  RegistrationPage :63 - click on Gender [[ChromeDriver: chrome on WINDOWS (90d1aea1de0355cd3b653194b03b7c47)] -> xpath: //label[contains(text(),'Male')]]
+2020-12-08 14:12:854 INFO  RegistrationPage :71 - clicks and sends First Name [[ChromeDriver: chrome on WINDOWS (90d1aea1de0355cd3b653194b03b7c47)] -> xpath: //input[@id='FirstName']]
+2020-12-08 14:12:943 INFO  RegistrationPage :78 - clicks and sends Last Name [[ChromeDriver: chrome on WINDOWS (90d1aea1de0355cd3b653194b03b7c47)] -> xpath: //input[@id='LastName']]
+2020-12-08 14:12:33 INFO  RegistrationPage :85 - selects date from the DropDown [[ChromeDriver: chrome on WINDOWS (90d1aea1de0355cd3b653194b03b7c47)] -> xpath: //select[@name='DateOfBirthDay']//option[contains(text(),'11')]]
+2020-12-08 14:12:117 INFO  RegistrationPage :91 - selects month from the Dropdown [[ChromeDriver: chrome on WINDOWS (90d1aea1de0355cd3b653194b03b7c47)] -> xpath: //select[@name='DateOfBirthMonth']//option[contains(text(),'November')]]
+2020-12-08 14:12:198 INFO  RegistrationPage :97 - Selects Year from Dropdown [[ChromeDriver: chrome on WINDOWS (90d1aea1de0355cd3b653194b03b7c47)] -> xpath: //select[@name='DateOfBirthYear']//option[contains(text(),'2011')]]
+2020-12-08 14:12:371 INFO  RegistrationPage :104 - send Email Id to [[ChromeDriver: chrome on WINDOWS (90d1aea1de0355cd3b653194b03b7c47)] -> xpath: //input[@id='Email']]
+2020-12-08 14:12:522 INFO  RegistrationPage :111 - send Company Name [[ChromeDriver: chrome on WINDOWS (90d1aea1de0355cd3b653194b03b7c47)] -> xpath: //input[@id='Company']]
+2020-12-08 14:12:607 INFO  RegistrationPage :117 - Selects Newsletter Checkbox [[ChromeDriver: chrome on WINDOWS (90d1aea1de0355cd3b653194b03b7c47)] -> xpath: //input[@id='Newsletter']]
+2020-12-08 14:12:764 INFO  RegistrationPage :124 - send password to field[[ChromeDriver: chrome on WINDOWS (90d1aea1de0355cd3b653194b03b7c47)] -> xpath: //input[@id='Password']]
+2020-12-08 14:12:910 INFO  RegistrationPage :131 - send password to confirm password field [[ChromeDriver: chrome on WINDOWS (90d1aea1de0355cd3b653194b03b7c47)] -> xpath: //input[@id='ConfirmPassword']]
+2020-12-08 14:12:517 INFO  RegistrationPage :137 - Clicks on Registeration Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='register-button']'
+2020-12-08 14:12:517 INFO  RegistrationPage :148 - Verifies Successful Registration
+2020-12-08 14:12:226 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:306 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (6f331f0d80ac2197c9e67b348bf04ee3)] -> xpath: //a[@class='ico-register']]
+2020-12-08 14:12:338 INFO  RegistrationPage :142 - Verify Registration Message [[ChromeDriver: chrome on WINDOWS (6f331f0d80ac2197c9e67b348bf04ee3)] -> xpath: //h1[contains(text(),'Register')]]
+2020-12-08 14:12:13 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:711 INFO  ComputerPage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (4164c4ac037c785a951fc5f0a9a24777)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 14:12:743 INFO  ComputerPage :32 - Desktop Message Verification [[ChromeDriver: chrome on WINDOWS (4164c4ac037c785a951fc5f0a9a24777)] -> xpath: //h1[contains(text(),'Computers')]]
+2020-12-08 14:12:469 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:802 INFO  DesktopPage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (4ebb5181280f6fad0de9ecf01fc3cf93)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 14:12:23 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-08 14:12:736 INFO  DesktopPage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (4ebb5181280f6fad0de9ecf01fc3cf93)] -> id: products-orderby]
+2020-12-08 14:12:569 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (4ebb5181280f6fad0de9ecf01fc3cf93)] -> id: products-orderby]
+2020-12-08 14:12:679 INFO  DesktopPage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (4ebb5181280f6fad0de9ecf01fc3cf93)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-08 14:12:430 INFO  DesktopPage :110 - Verify Actual Message [[ChromeDriver: chrome on WINDOWS (4ebb5181280f6fad0de9ecf01fc3cf93)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2020-12-08 14:12:125 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:336 INFO  DesktopPage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (72c51227738645ede1c6de8fe83b6dfe)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 14:12:990 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-08 14:12:375 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (72c51227738645ede1c6de8fe83b6dfe)] -> id: products-orderby]
+2020-12-08 14:12:480 INFO  DesktopPage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (72c51227738645ede1c6de8fe83b6dfe)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-08 14:12:639 INFO  BuildYourComputerPage :49 -  Selects Processor [[ChromeDriver: chrome on WINDOWS (72c51227738645ede1c6de8fe83b6dfe)] -> xpath: //select[@id='product_attribute_1']]
+2020-12-08 14:12:912 INFO  BuildYourComputerPage :60 -  select RAM from dropdow [[ChromeDriver: chrome on WINDOWS (72c51227738645ede1c6de8fe83b6dfe)] -> xpath: //select[@id='product_attribute_2']]
+2020-12-08 14:12:24 INFO  BuildYourComputerPage :67 - Click HDD radio button [[ChromeDriver: chrome on WINDOWS (72c51227738645ede1c6de8fe83b6dfe)] -> xpath: //input[@id='product_attribute_3_7']]
+2020-12-08 14:12:118 INFO  BuildYourComputerPage :70 - Clicks OS Radio Button [[ChromeDriver: chrome on WINDOWS (72c51227738645ede1c6de8fe83b6dfe)] -> xpath: //input[@id='product_attribute_4_9']]
+2020-12-08 14:12:237 INFO  BuildYourComputerPage :78 - Check Commander Check Box [[ChromeDriver: chrome on WINDOWS (72c51227738645ede1c6de8fe83b6dfe)] -> xpath: //input[@id='product_attribute_5_12']]
+2020-12-08 14:12:269 INFO  BuildYourComputerPage :84 - verify Message [[ChromeDriver: chrome on WINDOWS (72c51227738645ede1c6de8fe83b6dfe)] -> xpath: //span[@class='price-value-1']]
+2020-12-08 14:12:402 INFO  BuildYourComputerPage :96 - Click on Add to Cart Button [[ChromeDriver: chrome on WINDOWS (72c51227738645ede1c6de8fe83b6dfe)] -> xpath: //input[@id='add-to-cart-button-1']]
+2020-12-08 14:12:808 INFO  BuildYourComputerPage :104 -  Click on Display Notification [[ChromeDriver: chrome on WINDOWS (72c51227738645ede1c6de8fe83b6dfe)] -> xpath: //body/div[@id='bar-notification']/div[1]]
+2020-12-08 14:12:477 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:897 INFO  DesktopPage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (1758b9bfe10bf75ca060a3e100ba2678)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 14:12:560 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-08 14:12:364 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (1758b9bfe10bf75ca060a3e100ba2678)] -> id: products-orderby]
+2020-12-08 14:12:459 INFO  DesktopPage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (1758b9bfe10bf75ca060a3e100ba2678)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-08 14:12:604 INFO  BuildYourComputerPage :49 -  Selects Processor [[ChromeDriver: chrome on WINDOWS (1758b9bfe10bf75ca060a3e100ba2678)] -> xpath: //select[@id='product_attribute_1']]
+2020-12-08 14:12:881 INFO  BuildYourComputerPage :60 -  select RAM from dropdow [[ChromeDriver: chrome on WINDOWS (1758b9bfe10bf75ca060a3e100ba2678)] -> xpath: //select[@id='product_attribute_2']]
+2020-12-08 14:12:985 INFO  BuildYourComputerPage :67 - Click HDD radio button [[ChromeDriver: chrome on WINDOWS (1758b9bfe10bf75ca060a3e100ba2678)] -> xpath: //input[@id='product_attribute_3_7']]
+2020-12-08 14:12:89 INFO  BuildYourComputerPage :70 - Clicks OS Radio Button [[ChromeDriver: chrome on WINDOWS (1758b9bfe10bf75ca060a3e100ba2678)] -> xpath: //input[@id='product_attribute_4_9']]
+2020-12-08 14:12:205 INFO  BuildYourComputerPage :78 - Check Commander Check Box [[ChromeDriver: chrome on WINDOWS (1758b9bfe10bf75ca060a3e100ba2678)] -> xpath: //input[@id='product_attribute_5_12']]
+2020-12-08 14:12:237 INFO  BuildYourComputerPage :84 - verify Message [[ChromeDriver: chrome on WINDOWS (1758b9bfe10bf75ca060a3e100ba2678)] -> xpath: //span[@class='price-value-1']]
+2020-12-08 14:12:392 INFO  BuildYourComputerPage :96 - Click on Add to Cart Button [[ChromeDriver: chrome on WINDOWS (1758b9bfe10bf75ca060a3e100ba2678)] -> xpath: //input[@id='add-to-cart-button-1']]
+2020-12-08 14:12:813 INFO  BuildYourComputerPage :104 -  Click on Display Notification [[ChromeDriver: chrome on WINDOWS (1758b9bfe10bf75ca060a3e100ba2678)] -> xpath: //body/div[@id='bar-notification']/div[1]]
+2020-12-08 14:12:330 INFO  ShoppingCartPage :42 - Mini shopping Cart [[ChromeDriver: chrome on WINDOWS (1758b9bfe10bf75ca060a3e100ba2678)] -> xpath: //div[@class='mini-shopping-cart']//div//input]
+2020-12-08 14:12:538 INFO  ShoppingCartPage :53 - Changes the qty to 2 [[ChromeDriver: chrome on WINDOWS (1758b9bfe10bf75ca060a3e100ba2678)] -> xpath: //input[@class='qty-input']]
+2020-12-08 14:12:321 INFO  ShoppingCartPage :60 - Updates final Add button [[ChromeDriver: chrome on WINDOWS (1758b9bfe10bf75ca060a3e100ba2678)] -> xpath: //div[@class='cart-options']//div//input[@class='button-2 update-cart-button']]
+2020-12-08 14:12:385 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:738 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (c852ea6ddf2eb59944c3bdd7b56d4a18)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 14:12:770 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (c852ea6ddf2eb59944c3bdd7b56d4a18)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 14:12:465 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:728 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (bac088f30afa67a560763e689ffb6a79)] -> xpath: //a[@class='ico-register']]
+2020-12-08 14:12:760 INFO  RegistrationPage :142 - Verify Registration Message [[ChromeDriver: chrome on WINDOWS (bac088f30afa67a560763e689ffb6a79)] -> xpath: //h1[contains(text(),'Register')]]
+2020-12-08 14:12:642 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:960 INFO  ComputerPage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (54ec0887b2fb23feefe20be592a6c6ba)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 14:12:993 INFO  ComputerPage :32 - Desktop Message Verification [[ChromeDriver: chrome on WINDOWS (54ec0887b2fb23feefe20be592a6c6ba)] -> xpath: //h1[contains(text(),'Computers')]]
+2020-12-08 14:12:891 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:28 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (51500b1c245d71a83e658cf552664dd6)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-08 14:12:246 INFO  LoginPage :33 - Entering email address : alphatest454@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (51500b1c245d71a83e658cf552664dd6)] -> id: Email]
+2020-12-08 14:12:432 INFO  LoginPage :40 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (51500b1c245d71a83e658cf552664dd6)] -> css selector: #Password]
+2020-12-08 14:12:510 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (51500b1c245d71a83e658cf552664dd6)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-08 14:12:542 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (51500b1c245d71a83e658cf552664dd6)] -> xpath: //div[@class='page-title']//h1]
+2020-12-08 14:12:239 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:418 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b38e2c8a345a45ec777551e042769540)] -> xpath: //a[@class='ico-register']]
+2020-12-08 14:12:535 INFO  RegistrationPage :63 - click on Gender [[ChromeDriver: chrome on WINDOWS (b38e2c8a345a45ec777551e042769540)] -> xpath: //label[contains(text(),'Male')]]
+2020-12-08 14:12:727 INFO  RegistrationPage :71 - clicks and sends First Name [[ChromeDriver: chrome on WINDOWS (b38e2c8a345a45ec777551e042769540)] -> xpath: //input[@id='FirstName']]
+2020-12-08 14:12:838 INFO  RegistrationPage :78 - clicks and sends Last Name [[ChromeDriver: chrome on WINDOWS (b38e2c8a345a45ec777551e042769540)] -> xpath: //input[@id='LastName']]
+2020-12-08 14:12:926 INFO  RegistrationPage :85 - selects date from the DropDown [[ChromeDriver: chrome on WINDOWS (b38e2c8a345a45ec777551e042769540)] -> xpath: //select[@name='DateOfBirthDay']//option[contains(text(),'11')]]
+2020-12-08 14:12:999 INFO  RegistrationPage :91 - selects month from the Dropdown [[ChromeDriver: chrome on WINDOWS (b38e2c8a345a45ec777551e042769540)] -> xpath: //select[@name='DateOfBirthMonth']//option[contains(text(),'November')]]
+2020-12-08 14:12:77 INFO  RegistrationPage :97 - Selects Year from Dropdown [[ChromeDriver: chrome on WINDOWS (b38e2c8a345a45ec777551e042769540)] -> xpath: //select[@name='DateOfBirthYear']//option[contains(text(),'2011')]]
+2020-12-08 14:12:265 INFO  RegistrationPage :104 - send Email Id to [[ChromeDriver: chrome on WINDOWS (b38e2c8a345a45ec777551e042769540)] -> xpath: //input[@id='Email']]
+2020-12-08 14:12:461 INFO  RegistrationPage :111 - send Company Name [[ChromeDriver: chrome on WINDOWS (b38e2c8a345a45ec777551e042769540)] -> xpath: //input[@id='Company']]
+2020-12-08 14:12:586 INFO  RegistrationPage :117 - Selects Newsletter Checkbox [[ChromeDriver: chrome on WINDOWS (b38e2c8a345a45ec777551e042769540)] -> xpath: //input[@id='Newsletter']]
+2020-12-08 14:12:744 INFO  RegistrationPage :124 - send password to field[[ChromeDriver: chrome on WINDOWS (b38e2c8a345a45ec777551e042769540)] -> xpath: //input[@id='Password']]
+2020-12-08 14:12:931 INFO  RegistrationPage :131 - send password to confirm password field [[ChromeDriver: chrome on WINDOWS (b38e2c8a345a45ec777551e042769540)] -> xpath: //input[@id='ConfirmPassword']]
+2020-12-08 14:12:50 INFO  RegistrationPage :137 - Clicks on Registeration Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='register-button']'
+2020-12-08 14:12:50 INFO  RegistrationPage :148 - Verifies Successful Registration
+2020-12-08 14:12:774 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-08 14:12:936 INFO  DesktopPage :44 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (a3cb6f74c3de665a6fc5a4e83e559184)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-08 14:12:334 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-08 14:12:675 INFO  DesktopPage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (a3cb6f74c3de665a6fc5a4e83e559184)] -> id: products-orderby]
+2020-12-08 14:12:489 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (a3cb6f74c3de665a6fc5a4e83e559184)] -> id: products-orderby]
+2020-12-08 14:12:576 INFO  DesktopPage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (a3cb6f74c3de665a6fc5a4e83e559184)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-08 14:12:533 INFO  DesktopPage :110 - Verify Actual Message [[ChromeDriver: chrome on WINDOWS (a3cb6f74c3de665a6fc5a4e83e559184)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2020-12-09 12:12:667 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 12:12:785 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 12:12:518 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 12:12:76 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 12:12:62 INFO  ComputerPage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (96d945f5a013a8c37f5d73b72f7128b1)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-09 12:12:801 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-09 12:12:196 INFO  DesktopPage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (96d945f5a013a8c37f5d73b72f7128b1)] -> id: products-orderby]
+2020-12-09 12:12:882 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (96d945f5a013a8c37f5d73b72f7128b1)] -> id: products-orderby]
+2020-12-09 13:12:12 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 13:12:20 INFO  ComputerPage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (326133388615567dc0dfbcfcfc8ef977)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-09 13:12:309 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-09 13:12:340 INFO  DesktopPage :50 - Desktop Message Verification [[ChromeDriver: chrome on WINDOWS (326133388615567dc0dfbcfcfc8ef977)] -> xpath: //h1[contains(text(),'Desktops')]]
+2020-12-09 13:12:856 INFO  DesktopPage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (326133388615567dc0dfbcfcfc8ef977)] -> id: products-orderby]
+2020-12-09 13:12:382 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (326133388615567dc0dfbcfcfc8ef977)] -> id: products-orderby]
+2020-12-09 13:12:476 INFO  BuildYourComputerPage :50 - Actual Message to verify user is on Build your computer page Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Build your own computer')]'
+2020-12-09 13:12:741 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 13:12:759 INFO  ComputerPage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (8abb32d137096573a5b979e847613205)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-09 13:12:183 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-09 13:12:216 INFO  DesktopPage :50 - Desktop Message Verification [[ChromeDriver: chrome on WINDOWS (8abb32d137096573a5b979e847613205)] -> xpath: //h1[contains(text(),'Desktops')]]
+2020-12-09 13:12:87 INFO  DesktopPage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (8abb32d137096573a5b979e847613205)] -> id: products-orderby]
+2020-12-09 13:12:961 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (8abb32d137096573a5b979e847613205)] -> id: products-orderby]
+2020-12-09 13:12:79 INFO  BuildYourComputerPage :50 - Actual Message to verify user is on Build your computer page Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Build your own computer')]'
+2020-12-09 13:12:682 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 13:12:791 INFO  ComputerPage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (921b020d4bfd3ac5058feef53e23bbd5)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-09 13:12:219 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-09 13:12:269 INFO  DesktopPage :50 - Desktop Message Verification [[ChromeDriver: chrome on WINDOWS (921b020d4bfd3ac5058feef53e23bbd5)] -> xpath: //h1[contains(text(),'Desktops')]]
+2020-12-09 13:12:654 INFO  DesktopPage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (921b020d4bfd3ac5058feef53e23bbd5)] -> id: products-orderby]
+2020-12-09 13:12:598 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (921b020d4bfd3ac5058feef53e23bbd5)] -> id: products-orderby]
+2020-12-09 13:12:742 INFO  BuildYourComputerPage :50 - Actual Message to verify user is on Build your computer page Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Build your own computer')]'
+2020-12-09 13:12:465 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 13:12:620 INFO  ComputerPage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (38d3e7022eebadf0ab4b8d987362d16f)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-09 13:12:02 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-09 13:12:55 INFO  DesktopPage :50 - Desktop Message Verification [[ChromeDriver: chrome on WINDOWS (38d3e7022eebadf0ab4b8d987362d16f)] -> xpath: //h1[contains(text(),'Desktops')]]
+2020-12-09 13:12:812 INFO  DesktopPage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (38d3e7022eebadf0ab4b8d987362d16f)] -> id: products-orderby]
+2020-12-09 13:12:698 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (38d3e7022eebadf0ab4b8d987362d16f)] -> id: products-orderby]
+2020-12-09 13:12:797 INFO  DesktopPage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (38d3e7022eebadf0ab4b8d987362d16f)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-09 13:12:856 INFO  BuildYourComputerPage :50 - Actual Message to verify user is on Build your computer page [[ChromeDriver: chrome on WINDOWS (38d3e7022eebadf0ab4b8d987362d16f)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2020-12-09 13:12:20 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 13:12:913 INFO  ComputerPage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (fd0c1fcba4f7458cd6907a4054c9a7ef)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-09 13:12:277 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-09 13:12:309 INFO  DesktopPage :50 - Desktop Message Verification [[ChromeDriver: chrome on WINDOWS (fd0c1fcba4f7458cd6907a4054c9a7ef)] -> xpath: //h1[contains(text(),'Desktops')]]
+2020-12-09 13:12:110 INFO  DesktopPage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (fd0c1fcba4f7458cd6907a4054c9a7ef)] -> id: products-orderby]
+2020-12-09 13:12:945 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (fd0c1fcba4f7458cd6907a4054c9a7ef)] -> id: products-orderby]
+2020-12-09 13:12:55 INFO  DesktopPage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (fd0c1fcba4f7458cd6907a4054c9a7ef)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-09 13:12:104 INFO  BuildYourComputerPage :50 - Actual Message to verify user is on Build your computer page [[ChromeDriver: chrome on WINDOWS (fd0c1fcba4f7458cd6907a4054c9a7ef)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2020-12-09 13:12:434 INFO  BuildYourComputerPage :62 -  Selects Processor [[ChromeDriver: chrome on WINDOWS (fd0c1fcba4f7458cd6907a4054c9a7ef)] -> xpath: //select[@id='product_attribute_1']]
+2020-12-09 13:12:706 INFO  BuildYourComputerPage :73 -  select RAM from dropdow [[ChromeDriver: chrome on WINDOWS (fd0c1fcba4f7458cd6907a4054c9a7ef)] -> xpath: //select[@id='product_attribute_2']]
+2020-12-09 13:12:819 INFO  BuildYourComputerPage :80 - Click HDD radio button [[ChromeDriver: chrome on WINDOWS (fd0c1fcba4f7458cd6907a4054c9a7ef)] -> xpath: //input[@id='product_attribute_3_7']]
+2020-12-09 13:12:915 INFO  BuildYourComputerPage :83 - Clicks OS Radio Button [[ChromeDriver: chrome on WINDOWS (fd0c1fcba4f7458cd6907a4054c9a7ef)] -> xpath: //input[@id='product_attribute_4_9']]
+2020-12-09 13:12:31 INFO  BuildYourComputerPage :91 - Check Commander Check Box [[ChromeDriver: chrome on WINDOWS (fd0c1fcba4f7458cd6907a4054c9a7ef)] -> xpath: //input[@id='product_attribute_5_12']]
+2020-12-09 13:12:63 INFO  BuildYourComputerPage :97 - verify Message [[ChromeDriver: chrome on WINDOWS (fd0c1fcba4f7458cd6907a4054c9a7ef)] -> xpath: //span[@class='price-value-1']]
+2020-12-09 13:12:220 INFO  BuildYourComputerPage :109 - Click on Add to Cart Button [[ChromeDriver: chrome on WINDOWS (fd0c1fcba4f7458cd6907a4054c9a7ef)] -> xpath: //input[@id='add-to-cart-button-1']]
+2020-12-09 13:12:586 INFO  BuildYourComputerPage :117 -  Click on Display Notification [[ChromeDriver: chrome on WINDOWS (fd0c1fcba4f7458cd6907a4054c9a7ef)] -> xpath: //body/div[@id='bar-notification']/div[1]]
+2020-12-09 13:12:804 INFO  ShoppingCartPage :41 - Mini shopping Cart [[ChromeDriver: chrome on WINDOWS (fd0c1fcba4f7458cd6907a4054c9a7ef)] -> xpath: //div[@class='mini-shopping-cart']//div//input]
+2020-12-09 13:12:120 INFO  ShoppingCartPage :52 - Changes the qty to 2 [[ChromeDriver: chrome on WINDOWS (fd0c1fcba4f7458cd6907a4054c9a7ef)] -> xpath: //input[@class='qty-input']]
+2020-12-09 13:12:969 INFO  ShoppingCartPage :59 - Updates final Add button [[ChromeDriver: chrome on WINDOWS (fd0c1fcba4f7458cd6907a4054c9a7ef)] -> xpath: //div[@class='cart-options']//div//input[@class='button-2 update-cart-button']]
+2020-12-09 14:12:602 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 14:12:605 INFO  ComputerPage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (51ef8c9d9fbec6f1166d6a8868db18b6)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-09 14:12:996 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-09 14:12:28 INFO  DesktopPage :50 - Desktop Message Verification [[ChromeDriver: chrome on WINDOWS (51ef8c9d9fbec6f1166d6a8868db18b6)] -> xpath: //h1[contains(text(),'Desktops')]]
+2020-12-09 14:12:544 INFO  DesktopPage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (51ef8c9d9fbec6f1166d6a8868db18b6)] -> id: products-orderby]
+2020-12-09 14:12:373 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (51ef8c9d9fbec6f1166d6a8868db18b6)] -> id: products-orderby]
+2020-12-09 14:12:486 INFO  DesktopPage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (51ef8c9d9fbec6f1166d6a8868db18b6)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-09 14:12:551 INFO  BuildYourComputerPage :50 - Actual Message to verify user is on Build your computer page [[ChromeDriver: chrome on WINDOWS (51ef8c9d9fbec6f1166d6a8868db18b6)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2020-12-09 14:12:907 INFO  BuildYourComputerPage :62 -  Selects Processor [[ChromeDriver: chrome on WINDOWS (51ef8c9d9fbec6f1166d6a8868db18b6)] -> xpath: //select[@id='product_attribute_1']]
+2020-12-09 14:12:149 INFO  BuildYourComputerPage :73 -  select RAM from dropdow [[ChromeDriver: chrome on WINDOWS (51ef8c9d9fbec6f1166d6a8868db18b6)] -> xpath: //select[@id='product_attribute_2']]
+2020-12-09 14:12:243 INFO  BuildYourComputerPage :80 - Click HDD radio button [[ChromeDriver: chrome on WINDOWS (51ef8c9d9fbec6f1166d6a8868db18b6)] -> xpath: //input[@id='product_attribute_3_7']]
+2020-12-09 14:12:337 INFO  BuildYourComputerPage :83 - Clicks OS Radio Button [[ChromeDriver: chrome on WINDOWS (51ef8c9d9fbec6f1166d6a8868db18b6)] -> xpath: //input[@id='product_attribute_4_9']]
+2020-12-09 14:12:432 INFO  BuildYourComputerPage :91 - Check Commander Check Box [[ChromeDriver: chrome on WINDOWS (51ef8c9d9fbec6f1166d6a8868db18b6)] -> xpath: //input[@id='product_attribute_5_12']]
+2020-12-09 14:12:463 INFO  BuildYourComputerPage :97 - verify Message [[ChromeDriver: chrome on WINDOWS (51ef8c9d9fbec6f1166d6a8868db18b6)] -> xpath: //span[@class='price-value-1']]
+2020-12-09 14:12:360 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 14:12:331 INFO  ComputerPage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (b9251d85993a3c7d121ae01e64979940)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-09 14:12:703 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-09 14:12:740 INFO  DesktopPage :50 - Desktop Message Verification [[ChromeDriver: chrome on WINDOWS (b9251d85993a3c7d121ae01e64979940)] -> xpath: //h1[contains(text(),'Desktops')]]
+2020-12-09 14:12:517 INFO  DesktopPage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (b9251d85993a3c7d121ae01e64979940)] -> id: products-orderby]
+2020-12-09 14:12:407 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (b9251d85993a3c7d121ae01e64979940)] -> id: products-orderby]
+2020-12-09 14:12:513 INFO  DesktopPage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (b9251d85993a3c7d121ae01e64979940)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-09 14:12:567 INFO  BuildYourComputerPage :50 - Actual Message to verify user is on Build your computer page [[ChromeDriver: chrome on WINDOWS (b9251d85993a3c7d121ae01e64979940)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2020-12-09 14:12:897 INFO  BuildYourComputerPage :62 -  Selects Processor [[ChromeDriver: chrome on WINDOWS (b9251d85993a3c7d121ae01e64979940)] -> xpath: //select[@id='product_attribute_1']]
+2020-12-09 14:12:173 INFO  BuildYourComputerPage :73 -  select RAM from dropdow [[ChromeDriver: chrome on WINDOWS (b9251d85993a3c7d121ae01e64979940)] -> xpath: //select[@id='product_attribute_2']]
+2020-12-09 14:12:285 INFO  BuildYourComputerPage :80 - Click HDD radio button [[ChromeDriver: chrome on WINDOWS (b9251d85993a3c7d121ae01e64979940)] -> xpath: //input[@id='product_attribute_3_7']]
+2020-12-09 14:12:376 INFO  BuildYourComputerPage :83 - Clicks OS Radio Button [[ChromeDriver: chrome on WINDOWS (b9251d85993a3c7d121ae01e64979940)] -> xpath: //input[@id='product_attribute_4_9']]
+2020-12-09 14:12:490 INFO  BuildYourComputerPage :91 - Check Commander Check Box [[ChromeDriver: chrome on WINDOWS (b9251d85993a3c7d121ae01e64979940)] -> xpath: //input[@id='product_attribute_5_12']]
+2020-12-09 14:12:522 INFO  BuildYourComputerPage :97 - verify Message [[ChromeDriver: chrome on WINDOWS (b9251d85993a3c7d121ae01e64979940)] -> xpath: //span[@class='price-value-1']]
+2020-12-09 14:12:672 INFO  BuildYourComputerPage :109 - Click on Add to Cart Button [[ChromeDriver: chrome on WINDOWS (b9251d85993a3c7d121ae01e64979940)] -> xpath: //input[@id='add-to-cart-button-1']]
+2020-12-09 14:12:87 INFO  BuildYourComputerPage :117 -  Click on Display Notification [[ChromeDriver: chrome on WINDOWS (b9251d85993a3c7d121ae01e64979940)] -> xpath: //body/div[@id='bar-notification']/div[1]]
+2020-12-09 14:12:78 INFO  ShoppingCartPage :41 - Mini shopping Cart [[ChromeDriver: chrome on WINDOWS (b9251d85993a3c7d121ae01e64979940)] -> xpath: //div[@class='mini-shopping-cart']//div//input]
+2020-12-09 14:12:325 INFO  ShoppingCartPage :52 - Changes the qty to 2 [[ChromeDriver: chrome on WINDOWS (b9251d85993a3c7d121ae01e64979940)] -> xpath: //input[@class='qty-input']]
+2020-12-09 14:12:148 INFO  ShoppingCartPage :59 - Updates final Add button [[ChromeDriver: chrome on WINDOWS (b9251d85993a3c7d121ae01e64979940)] -> xpath: //div[@class='cart-options']//div//input[@class='button-2 update-cart-button']]
+2020-12-09 14:12:460 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 14:12:683 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (633bece00606a139fc65711e4d3bcb91)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-09 14:12:866 INFO  LoginPage :33 - Entering email address : alphatest921@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (633bece00606a139fc65711e4d3bcb91)] -> id: Email]
+2020-12-09 14:12:14 INFO  LoginPage :40 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (633bece00606a139fc65711e4d3bcb91)] -> css selector: #Password]
+2020-12-09 14:12:107 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (633bece00606a139fc65711e4d3bcb91)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-09 14:12:139 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (633bece00606a139fc65711e4d3bcb91)] -> xpath: //div[@class='page-title']//h1]
+2020-12-09 14:12:893 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 14:12:398 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (77fa78ebab150b2bf0c0e342317e3df2)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-09 14:12:430 INFO  LoginPage :51 - Getting text from : [[ChromeDriver: chrome on WINDOWS (77fa78ebab150b2bf0c0e342317e3df2)] -> xpath: //div[@class='page-title']//h1]
+2020-12-09 14:12:124 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 14:12:620 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (cd840c2e22601c655c600a71f5d8f29c)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-09 14:12:798 INFO  LoginPage :33 - Entering email address : betatest123@me.com.com to email field : [[ChromeDriver: chrome on WINDOWS (cd840c2e22601c655c600a71f5d8f29c)] -> id: Email]
+2020-12-09 14:12:940 INFO  LoginPage :40 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (cd840c2e22601c655c600a71f5d8f29c)] -> css selector: #Password]
+2020-12-09 14:12:438 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (cd840c2e22601c655c600a71f5d8f29c)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-09 14:12:473 INFO  LoginPage :57 - Getting error text from [[ChromeDriver: chrome on WINDOWS (cd840c2e22601c655c600a71f5d8f29c)] -> xpath: //div[@class = 'message-error validation-summary-errors']]
+2020-12-09 14:12:180 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 14:12:526 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (eee87500d170aaede6eb75fca42398b9)] -> xpath: //a[@class='ico-register']]
+2020-12-09 14:12:630 INFO  RegistrationPage :63 - click on Gender [[ChromeDriver: chrome on WINDOWS (eee87500d170aaede6eb75fca42398b9)] -> xpath: //label[contains(text(),'Male')]]
+2020-12-09 14:12:781 INFO  RegistrationPage :71 - clicks and sends First Name [[ChromeDriver: chrome on WINDOWS (eee87500d170aaede6eb75fca42398b9)] -> xpath: //input[@id='FirstName']]
+2020-12-09 14:12:902 INFO  RegistrationPage :78 - clicks and sends Last Name [[ChromeDriver: chrome on WINDOWS (eee87500d170aaede6eb75fca42398b9)] -> xpath: //input[@id='LastName']]
+2020-12-09 14:12:980 INFO  RegistrationPage :85 - selects date from the DropDown [[ChromeDriver: chrome on WINDOWS (eee87500d170aaede6eb75fca42398b9)] -> xpath: //select[@name='DateOfBirthDay']//option[contains(text(),'11')]]
+2020-12-09 14:12:71 INFO  RegistrationPage :91 - selects month from the Dropdown [[ChromeDriver: chrome on WINDOWS (eee87500d170aaede6eb75fca42398b9)] -> xpath: //select[@name='DateOfBirthMonth']//option[contains(text(),'November')]]
+2020-12-09 14:12:174 INFO  RegistrationPage :97 - Selects Year from Dropdown [[ChromeDriver: chrome on WINDOWS (eee87500d170aaede6eb75fca42398b9)] -> xpath: //select[@name='DateOfBirthYear']//option[contains(text(),'2011')]]
+2020-12-09 14:12:343 INFO  RegistrationPage :104 - send Email Id to [[ChromeDriver: chrome on WINDOWS (eee87500d170aaede6eb75fca42398b9)] -> xpath: //input[@id='Email']]
+2020-12-09 14:12:502 INFO  RegistrationPage :111 - send Company Name [[ChromeDriver: chrome on WINDOWS (eee87500d170aaede6eb75fca42398b9)] -> xpath: //input[@id='Company']]
+2020-12-09 14:12:610 INFO  RegistrationPage :117 - Selects Newsletter Checkbox [[ChromeDriver: chrome on WINDOWS (eee87500d170aaede6eb75fca42398b9)] -> xpath: //input[@id='Newsletter']]
+2020-12-09 14:12:761 INFO  RegistrationPage :124 - send password to field[[ChromeDriver: chrome on WINDOWS (eee87500d170aaede6eb75fca42398b9)] -> xpath: //input[@id='Password']]
+2020-12-09 14:12:915 INFO  RegistrationPage :131 - send password to confirm password field [[ChromeDriver: chrome on WINDOWS (eee87500d170aaede6eb75fca42398b9)] -> xpath: //input[@id='ConfirmPassword']]
+2020-12-09 14:12:959 INFO  RegistrationPage :137 - Clicks on Registeration Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='register-button']'
+2020-12-09 14:12:959 INFO  RegistrationPage :148 - Verifies Successful Registration
+2020-12-09 14:12:695 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 14:12:276 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (9c8362b416814f528647e54f9332f6e5)] -> xpath: //a[@class='ico-register']]
+2020-12-09 14:12:300 INFO  RegistrationPage :142 - Verify Registration Message [[ChromeDriver: chrome on WINDOWS (9c8362b416814f528647e54f9332f6e5)] -> xpath: //h1[contains(text(),'Register')]]
+2020-12-09 14:12:976 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 14:12:632 INFO  ComputerPage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (0ef3f74d8f0cd65bf141721123ac11f9)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-09 14:12:92 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-09 14:12:145 INFO  DesktopPage :50 - Desktop Message Verification [[ChromeDriver: chrome on WINDOWS (0ef3f74d8f0cd65bf141721123ac11f9)] -> xpath: //h1[contains(text(),'Desktops')]]
+2020-12-09 14:12:545 INFO  DesktopPage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (0ef3f74d8f0cd65bf141721123ac11f9)] -> id: products-orderby]
+2020-12-09 14:12:953 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (0ef3f74d8f0cd65bf141721123ac11f9)] -> id: products-orderby]
+2020-12-09 14:12:65 INFO  DesktopPage :103 - Clicks on Add to cart Button [[ChromeDriver: chrome on WINDOWS (0ef3f74d8f0cd65bf141721123ac11f9)] -> xpath: //input[@onclick='return AjaxCart.addproducttocart_catalog("/addproducttocart/catalog/1/1/1"),!1']]
+2020-12-09 14:12:117 INFO  BuildYourComputerPage :50 - Actual Message to verify user is on Build your computer page [[ChromeDriver: chrome on WINDOWS (0ef3f74d8f0cd65bf141721123ac11f9)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2020-12-09 14:12:422 INFO  BuildYourComputerPage :62 -  Selects Processor [[ChromeDriver: chrome on WINDOWS (0ef3f74d8f0cd65bf141721123ac11f9)] -> xpath: //select[@id='product_attribute_1']]
+2020-12-09 14:12:708 INFO  BuildYourComputerPage :73 -  select RAM from dropdow [[ChromeDriver: chrome on WINDOWS (0ef3f74d8f0cd65bf141721123ac11f9)] -> xpath: //select[@id='product_attribute_2']]
+2020-12-09 14:12:804 INFO  BuildYourComputerPage :80 - Click HDD radio button [[ChromeDriver: chrome on WINDOWS (0ef3f74d8f0cd65bf141721123ac11f9)] -> xpath: //input[@id='product_attribute_3_7']]
+2020-12-09 14:12:900 INFO  BuildYourComputerPage :83 - Clicks OS Radio Button [[ChromeDriver: chrome on WINDOWS (0ef3f74d8f0cd65bf141721123ac11f9)] -> xpath: //input[@id='product_attribute_4_9']]
+2020-12-09 14:12:999 INFO  BuildYourComputerPage :91 - Check Commander Check Box [[ChromeDriver: chrome on WINDOWS (0ef3f74d8f0cd65bf141721123ac11f9)] -> xpath: //input[@id='product_attribute_5_12']]
+2020-12-09 14:12:24 INFO  BuildYourComputerPage :97 - verify Message [[ChromeDriver: chrome on WINDOWS (0ef3f74d8f0cd65bf141721123ac11f9)] -> xpath: //span[@class='price-value-1']]
+2020-12-09 14:12:186 INFO  BuildYourComputerPage :109 - Click on Add to Cart Button [[ChromeDriver: chrome on WINDOWS (0ef3f74d8f0cd65bf141721123ac11f9)] -> xpath: //input[@id='add-to-cart-button-1']]
+2020-12-09 14:12:546 INFO  BuildYourComputerPage :117 -  Click on Display Notification [[ChromeDriver: chrome on WINDOWS (0ef3f74d8f0cd65bf141721123ac11f9)] -> xpath: //body/div[@id='bar-notification']/div[1]]
+2020-12-09 14:12:718 INFO  ShoppingCartPage :41 - Mini shopping Cart [[ChromeDriver: chrome on WINDOWS (0ef3f74d8f0cd65bf141721123ac11f9)] -> xpath: //div[@class='mini-shopping-cart']//div//input]
+2020-12-09 14:12:948 INFO  ShoppingCartPage :52 - Changes the qty to 2 [[ChromeDriver: chrome on WINDOWS (0ef3f74d8f0cd65bf141721123ac11f9)] -> xpath: //input[@class='qty-input']]
+2020-12-09 14:12:822 INFO  ShoppingCartPage :59 - Updates final Add button [[ChromeDriver: chrome on WINDOWS (0ef3f74d8f0cd65bf141721123ac11f9)] -> xpath: //div[@class='cart-options']//div//input[@class='button-2 update-cart-button']]
+2020-12-09 14:12:822 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 14:12:70 INFO  ComputerPage :25 - Mouse Hovers on Computer Link [[ChromeDriver: chrome on WINDOWS (67f0180b5e0085a8c9c339a18b9592fa)] -> xpath: //ul[@class='top-menu notmobile']//a[contains(text(),'Computers')]]
+2020-12-09 14:12:439 INFO  DesktopPage :60 - Clicks on Desktop Link Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2020-12-09 14:12:845 INFO  DesktopPage :68 - sorts Z To A [[ChromeDriver: chrome on WINDOWS (67f0180b5e0085a8c9c339a18b9592fa)] -> id: products-orderby]
+2020-12-09 14:12:773 INFO  DesktopPage :96 -  sorts AtoZ [[ChromeDriver: chrome on WINDOWS (67f0180b5e0085a8c9c339a18b9592fa)] -> id: products-orderby]
+2020-12-09 17:12:161 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 17:12:957 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (f6947903b7db3ad2ec23e22409965c8e)] -> xpath: //a[@class='ico-register']]
+2020-12-09 17:12:973 INFO  RegistrationPage :142 - Verify Registration Message [[ChromeDriver: chrome on WINDOWS (f6947903b7db3ad2ec23e22409965c8e)] -> xpath: //h1[contains(text(),'Register')]]
+2020-12-09 17:12:187 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 17:12:115 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-09 17:12:868 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (bc9a9d8326a9ae32f12bc42a3378d15f)] -> xpath: //a[@class='ico-register']]
+2020-12-09 17:12:884 INFO  RegistrationPage :142 - Verify Registration Message [[ChromeDriver: chrome on WINDOWS (bc9a9d8326a9ae32f12bc42a3378d15f)] -> xpath: //h1[contains(text(),'Register')]]
